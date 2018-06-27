@@ -104,7 +104,7 @@ if __name__ == '__main__':
         print("NERs: ", str(len(ners)))
         print("Valid URLs: ", str(len(urls)))
         # write original urls to file
-        with open('searchUrls/' + fileinfo + '_original_urls.txt', 'a+') as urlfile:
+        with open('searchUrls/all_original_urls.txt', 'a+') as urlfile:
             sorted_tuples = sorted(urls.items(), key=operator.itemgetter(1), reverse=True)
             sorted_urls = dict(sorted_tuples)
             json.dump(sorted_urls, urlfile, indent=4)
