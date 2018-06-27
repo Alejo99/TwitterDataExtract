@@ -5,17 +5,14 @@ from TweetUtils import Twutils
 
 
 if __name__ == '__main__':
-    # Consumer tokens
-    consumer_key = "YxY3yaRl3TZeBcXnzgSDxNvmV"
-    consumer_secret = "hb3FYmgCgyuu0Icd1Alt2tqXVvi7Z9fW54SrtBVj93HSHshFBv"
-    # Access tokens
-    access_token = "999988126474006528-SCB4Qc5Xx1pZfcWzejuuk6ZsCrz4Wdc"
-    access_token_secret = "et54gPojSgP0x4EYehCoIBedaTpIFvDVGztr7xpVeYZa5"
+    # OAuth Authentication
+    with open("twitterauth.txt", "r") as f:
+        secret = json.load(f)
 
     # Get the OAuth handler
-    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+    auth = tweepy.OAuthHandler(secret["Consumer Key"], secret["Consumer Secret"])
     # Set the access tokens
-    auth.set_access_token(access_token, access_token_secret)
+    auth.set_access_token(secret["Access Token Key"], secret["Access Token Secret"])
 
     # Build the API object
     api = tweepy.API(auth,
@@ -35,7 +32,7 @@ if __name__ == '__main__':
         # Search an URI
         # Cursor iterates over the results
         for result in tweepy.Cursor(api.search,
-                                    q='(game of thrones OR khaleesi OR jon snow) filter:links',
+                                    q='(fifa world cup OR world cup) filter:links',
                                     lang="en",
                                     tweet_mode="extended").items(400):
             json_data = result._json
@@ -69,7 +66,7 @@ if __name__ == '__main__':
                     ners_tweets = utils.format_ners(id_str, entities)
                     # write named entities to csv file
                     utils.append_to_csv_file('search/search_ner.csv',
-                                             [ent.split('#', 1) for ent in entities.difference(ners)],
+                                             [ent.split('|', 1) for ent in entities.difference(ners)],
                                              True)
                     # write named entities -> tweet to csv file
                     utils.append_to_csv_file('search/search_ner_tweet.csv', ners_tweets, True)

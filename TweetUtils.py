@@ -65,13 +65,14 @@ class Twutils:
     @staticmethod
     def get_valid_urls(data):
         ret = []
-        urls = data["entities"]["urls"]
-        if len(urls) > 0:
-            for url in urls:
-                exp_url = url["expanded_url"]
-                orig_url = Twutils.unshorten_url(exp_url)
-                if not orig_url == "" and not orig_url.startswith("https://twitter.com"):
-                    ret.append([exp_url, orig_url])
+        if "entities" in data:
+            urls = data["entities"]["urls"]
+            if len(urls) > 0:
+                for url in urls:
+                    exp_url = url["expanded_url"]
+                    orig_url = Twutils.unshorten_url(exp_url)
+                    if not orig_url == "" and not orig_url.startswith("https://twitter.com"):
+                        ret.append([exp_url, orig_url])
         return ret
 
     @staticmethod
@@ -83,6 +84,10 @@ class Twutils:
             r = requests.head(url, allow_redirects=True, timeout=10)
             return r.url
         except requests.exceptions.Timeout:
+            return ""
+        except requests.exceptions.TooManyRedirects:
+            return ""
+        except requests.exceptions.ConnectionError:
             return ""
 
     def get_sentiment(self, text):
@@ -98,14 +103,14 @@ class Twutils:
             for entity in sentence["entitymentions"]:
                 if entity["ner"] != "URL" and entity["ner"] != "EMAIL":
                     # add each named entity to a set
-                    ners.add(entity["text"] + "#" + entity["ner"])
+                    ners.add(entity["text"] + "|" + entity["ner"])
         return ners
 
     @staticmethod
     def format_ners(id_str, ners):
         lst = []
         for tuple in ners:
-            entity = tuple.split('#')[0]
+            entity = tuple.split('|')[0]
             lst.append([id_str, entity])
         return lst
 
