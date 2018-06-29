@@ -8,17 +8,17 @@ from TweetUtils import Twutils
 
 # StdOut listener
 class StdOutListener(tweepy.StreamListener):
-    """ A listener handles tweets that are received from the stream.
-    This is a basic listener that just prints received tweets to stdout.
+    """
+    A listener handles tweets that are received from the stream.
     """
     def on_data(self, data):
         if len(self.state_handler.tweet_ids) < self.state_handler.max_tweets:
             json_data = json.loads(data)
+            id_str = json_data['id_str']
             # determine if it is a retweet
             if not self.state_handler.utils.is_retweet(json_data):
                 # determine if tweet has valid urls
                 valid_urls = self.state_handler.utils.get_valid_urls(json_data)
-                id_str = json_data['id_str']
                 if len(valid_urls) > 0:
                     # backup write all data to txt file in raw json format
                     with open('streaming/streaming_data.txt', 'a+') as file:
@@ -26,7 +26,7 @@ class StdOutListener(tweepy.StreamListener):
 
                     # get formatted tweet
                     current_tweet = utils.format_tweet(json_data)
-                    self.state_handler.tweet_ids.append(current_tweet[0])
+                    self.state_handler.tweet_ids.add(current_tweet[0])
                     # write tweet to csv file
                     self.state_handler.utils.append_to_csv_file('streaming/streaming_tweets.csv', current_tweet)
 
@@ -69,11 +69,11 @@ class StdOutListener(tweepy.StreamListener):
 
 
 class StateHandler:
-    def __init__(self, utils, max_tweets=10):
+    def __init__(self, utils, max_tweets=100):
         self.utils = utils
         self.max_tweets = max_tweets
         self.emptyUrls = 0
-        self.tweet_ids = []
+        self.tweet_ids = set()
         self.ners = set()
         self.urls = dict()
 
@@ -93,7 +93,7 @@ if __name__ == '__main__':
     utils = Twutils(True, True)
 
     # State handler class
-    state_handler = StateHandler(utils, 50)
+    state_handler = StateHandler(utils, 100)
 
     try:
         while len(state_handler.tweet_ids) < state_handler.max_tweets:
@@ -105,7 +105,7 @@ if __name__ == '__main__':
                 stream = tweepy.Stream(auth, listener)
 
                 # Filter stream by language and keywords
-                stream.filter(languages=["en"], track=["fifa world cup", "world cup"])
+                stream.filter(languages=["en"], track=["game of thrones", "khaleesi", "daenerys targaryen"])
                 print("Total results: ", len(state_handler.tweet_ids))
                 print("Empty url results: ", str(state_handler.emptyUrls))
                 print("NERs: ", str(len(state_handler.ners)))

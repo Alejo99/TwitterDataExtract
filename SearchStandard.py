@@ -23,7 +23,7 @@ if __name__ == '__main__':
     utils = Twutils(True, True)
 
     # Variables
-    tweet_ids = []
+    tweet_ids = set()
     empty_urls = 0
     ners = set()
     urls = dict()
@@ -32,15 +32,15 @@ if __name__ == '__main__':
         # Search an URI
         # Cursor iterates over the results
         for result in tweepy.Cursor(api.search,
-                                    q='(fifa world cup OR world cup) filter:links',
+                                    q='(game of thrones OR khaleesi OR daenerys targaryen) filter:links',
                                     lang="en",
                                     tweet_mode="extended").items(400):
             json_data = result._json
+            id_str = json_data['id_str']
             # determine if it is a retweet
             if not utils.is_retweet(json_data):
                 # determine if it has valid urls
                 valid_urls = utils.get_valid_urls(json_data)
-                id_str = json_data['id_str']
                 if len(valid_urls) > 0:
                     # backup write all data to txt file in raw json format
                     with open('search/search_data.txt', 'a+') as file:
@@ -48,7 +48,7 @@ if __name__ == '__main__':
 
                     # get formatted tweet
                     current_tweet = utils.format_tweet(json_data)
-                    tweet_ids.append(current_tweet[0])
+                    tweet_ids.add(current_tweet[0])
                     # write tweet to csv file
                     utils.append_to_csv_file('search/search_tweets.csv', current_tweet)
 
@@ -88,16 +88,3 @@ if __name__ == '__main__':
             sorted_tuples = sorted(urls.items(), key=operator.itemgetter(1), reverse=True)
             sorted_urls = dict(sorted_tuples)
             json.dump(sorted_urls, urlfile, indent=4)
-
-# to sort a collection
-'''
-# x is a dict
-sorted_x = sorted(x.items(), key=operator.itemgetter(1), reverse=True)
-# sorted_x is a list of tuples
-# we can get a sorted dict back by doing 
-y = dict(sorted_x)
-'''
-# to write dict to file
-'''
-It is best to use json format. use json.dumps(dict) to write and json.loads() to read
-'''
