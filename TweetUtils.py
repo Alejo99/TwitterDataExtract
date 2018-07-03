@@ -11,7 +11,13 @@ class Twutils:
 
     def format_tweet(self, data):
         # print(json.dumps(data, indent=4))
-        tweet = [data["id_str"], str(Twutils.get_date(data["created_at"])), data["user"]["id_str"], self.get_text(data), self.get_sentiment(Twutils.get_text(data)), data["retweet_count"], data["favorite_count"]]
+        tweet = [data["id_str"],
+                 str(Twutils.get_date(data["created_at"])),
+                 data["user"]["id_str"],
+                 self.get_text(data),
+                 self.get_sentiment(Twutils.get_text(data)),
+                 data["retweet_count"],
+                 data["favorite_count"]]
         return tweet
 
     @staticmethod

@@ -32,7 +32,7 @@ if __name__ == '__main__':
         # Search an URI
         # Cursor iterates over the results
         for result in tweepy.Cursor(api.search,
-                                    q='(game of thrones OR khaleesi OR daenerys targaryen) filter:links',
+                                    q='(NHS OR national health service) filter:links',
                                     lang="en",
                                     tweet_mode="extended").items(400):
             json_data = result._json

@@ -1,142 +1,492 @@
-"1010123006226640896","2018-06-22 11:31:06+00:00",-0.7213,0,0
-"1010122571554213888","2018-06-22 11:29:22+00:00",-0.7213,0,0
-"1010122039112404993","2018-06-22 11:27:15+00:00",-0.7213,0,0
-"1010116584189366272","2018-06-22 11:05:35+00:00",-0.6486,0,0
-"1010116578652848129","2018-06-22 11:05:34+00:00",-0.6486,0,0
-"1010113480509263872","2018-06-22 10:53:15+00:00",-0.6486,0,0
-"1010103284558950400","2018-06-22 10:12:44+00:00",-0.6486,2,5
-"1011836527519793152","2018-06-27 05:00:01+00:00",-0.6486,0,0
-"1011745936089812993","2018-06-26 23:00:03+00:00",0.0,0,0
-"1011655332047740930","2018-06-26 17:00:01+00:00",0.5106,0,0
-"1011564736062746624","2018-06-26 11:00:01+00:00",0.0,0,0
-"1011474164580929536","2018-06-26 05:00:07+00:00",-0.6486,0,0
-"1011383541521776640","2018-06-25 23:00:01+00:00",0.0,0,0
-"1011292958803423232","2018-06-25 17:00:04+00:00",0.5106,0,0
-"1011202349514174466","2018-06-25 11:00:02+00:00",0.3182,0,0
-"1011111754703630337","2018-06-25 05:00:02+00:00",0.0,0,0
-"1011021153547124736","2018-06-24 23:00:01+00:00",0.0,0,0
-"1010930563224485888","2018-06-24 17:00:03+00:00",0.5562,0,0
-"1010839964030910464","2018-06-24 11:00:02+00:00",0.5972,0,0
-"1010749366355705857","2018-06-24 05:00:02+00:00",0.3182,0,0
-"1010658769154392064","2018-06-23 23:00:02+00:00",0.0,0,0
-"1010568172682924033","2018-06-23 17:00:02+00:00",0.0,0,0
-"1010477570163277826","2018-06-23 11:00:01+00:00",0.0,0,0
-"1010386974539051008","2018-06-23 05:00:01+00:00",0.34,0,0
-"1010296376909950976","2018-06-22 23:00:01+00:00",0.5562,0,0
-"1010205785572368384","2018-06-22 17:00:02+00:00",0.0,0,0
-"1010115182222192640","2018-06-22 11:00:01+00:00",-0.6486,0,0
-"1010024596609744896","2018-06-22 05:00:03+00:00",0.0,0,0
-"1009933989023342593","2018-06-21 23:00:01+00:00",0.5562,0,0
-"1009843396163194881","2018-06-21 17:00:02+00:00",0.0,0,0
-"1009752799058395136","2018-06-21 11:00:02+00:00",0.0,0,0
-"1009662208429604864","2018-06-21 05:00:03+00:00",0.5562,0,0
-"1009571609135337472","2018-06-20 23:00:03+00:00",0.5562,0,0
-"1009481009753018368","2018-06-20 17:00:02+00:00",0.34,0,0
-"1009390407807979520","2018-06-20 11:00:01+00:00",0.0,0,0
-"1009299816071905282","2018-06-20 05:00:02+00:00",0.5106,0,0
-"1009209212696592384","2018-06-19 23:00:01+00:00",0.5106,0,0
-"1009118616313196544","2018-06-19 17:00:01+00:00",0.5562,0,0
-"1009028021662040064","2018-06-19 11:00:01+00:00",0.0,0,0
-"1008937423244414976","2018-06-19 05:00:01+00:00",0.5562,0,0
-"1008846825493692416","2018-06-18 23:00:01+00:00",0.5106,0,0
-"1008756234890051584","2018-06-18 17:00:02+00:00",0.5562,0,0
-"1008665634962530304","2018-06-18 11:00:02+00:00",0.0,0,1
-"1008575035815051265","2018-06-18 05:00:01+00:00",0.5562,0,0
-"1008484438987042822","2018-06-17 23:00:01+00:00",0.3612,0,0
-"1008393840758161409","2018-06-17 17:00:01+00:00",0.6705,0,0
-"1010117742421110785","2018-06-22 11:10:11+00:00",-0.6486,1,1
-"1010115660310044673","2018-06-22 11:01:55+00:00",-0.6486,0,0
-"1010117825455902720","2018-06-22 11:10:31+00:00",-0.6486,0,0
-"1010120805815025665","2018-06-22 11:22:21+00:00",-0.5994,1,0
-"1010121285626679296","2018-06-22 11:24:16+00:00",-0.8176,0,0
-"1010121481966309377","2018-06-22 11:25:03+00:00",-0.6486,0,1
-"1010122739858984960","2018-06-22 11:30:03+00:00",-0.6486,0,0
-"1009982586855329797","2018-06-22 02:13:07+00:00",-0.3818,0,0
-"1010124207676690434","2018-06-22 11:35:52+00:00",-0.6486,0,0
-"1010124260247994368","2018-06-22 11:36:05+00:00",-0.6486,0,0
-"1010124529417347075","2018-06-22 11:37:09+00:00",-0.0516,0,0
-"1010125611099095042","2018-06-22 11:41:27+00:00",-0.6486,0,0
-"1010380810309038080","2018-06-23 04:35:31+00:00",-0.3612,0,0
-"1010315268160139270","2018-06-23 00:15:05+00:00",0.4588,0,1
-"1010267349314887685","2018-06-22 21:04:40+00:00",-0.3182,4,4
-"1010203294323666945","2018-06-22 16:50:08+00:00",-0.3182,0,0
-"1010196120931307522","2018-06-22 16:21:38+00:00",-0.3182,0,0
-"1010165663149813762","2018-06-22 14:20:36+00:00",-0.3182,0,0
-"1009966907385110529","2018-06-22 01:10:49+00:00",-0.4215,0,2
-"1009962468280430592","2018-06-22 00:53:11+00:00",0.4588,0,1
-"1010129914975027200","2018-06-22 11:58:33+00:00",-0.6486,0,0
-"1010151596485853184","2018-06-22 13:24:42+00:00",-0.6486,0,0
-"1010151590748086273","2018-06-22 13:24:41+00:00",-0.6486,0,0
-"1010151579758964736","2018-06-22 13:24:38+00:00",-0.6486,0,0
-"1010151576705462278","2018-06-22 13:24:38+00:00",-0.6486,0,0
-"1010130301006303233","2018-06-22 12:00:05+00:00",0.2263,0,0
-"1010130360280190977","2018-06-22 12:00:19+00:00",-0.6486,0,0
-"1008916188431355904","2018-06-19 03:35:38+00:00",0.0,0,0
-"1011716576091836416","2018-06-26 21:03:23+00:00",-0.25,0,0
-"1010923864849768448","2018-06-24 16:33:26+00:00",-0.25,0,0
-"1010131135840452609","2018-06-22 12:03:24+00:00",-0.25,0,0
-"1009338419175014401","2018-06-20 07:33:26+00:00",-0.25,0,0
-"1008545704430657536","2018-06-18 03:03:28+00:00",-0.25,0,0
-"1010132330286022656","2018-06-22 12:08:09+00:00",-0.6486,0,0
-"1011622812929396736","2018-06-26 14:50:48+00:00",-0.4995,0,0
-"1011235313325355008","2018-06-25 13:11:01+00:00",-0.4995,0,0
-"1010606088490758145","2018-06-23 19:30:42+00:00",-0.4995,0,0
-"1010512389266124800","2018-06-23 13:18:22+00:00",-0.4995,0,0
-"1010400621881708545","2018-06-23 05:54:15+00:00",-0.4995,0,0
-"1010281627728130053","2018-06-22 22:01:24+00:00",-0.4995,0,0
-"1010197713500147712","2018-06-22 16:27:58+00:00",-0.4995,0,0
-"1010173312499142656","2018-06-22 14:51:00+00:00",-0.7213,0,0
-"1010144129953751041","2018-06-22 12:55:02+00:00",-0.4995,0,0
-"1010132803479068672","2018-06-22 12:10:02+00:00",-0.4995,0,0
-"1009999105505013760","2018-06-22 03:18:46+00:00",-0.7213,0,0
-"1009997773322838016","2018-06-22 03:13:28+00:00",-0.4995,0,0
-"1009989941349289985","2018-06-22 02:42:21+00:00",-0.4995,0,0
-"1009968786760486913","2018-06-22 01:18:17+00:00",-0.4995,0,0
-"1009942070910443522","2018-06-21 23:32:08+00:00",-0.7213,0,0
-"1009939950358487040","2018-06-21 23:23:42+00:00",-0.4995,0,0
-"1009893709297651712","2018-06-21 20:19:57+00:00",-0.4995,0,0
-"1009890560272986115","2018-06-21 20:07:27+00:00",-0.4995,0,0
-"1009858835526365188","2018-06-21 18:01:23+00:00",-0.4995,0,0
-"1009852435861516290","2018-06-21 17:35:57+00:00",-0.4995,0,0
-"1009841871542157313","2018-06-21 16:53:58+00:00",-0.4995,0,0
-"1009806287566200832","2018-06-21 14:32:34+00:00",-0.4995,0,0
-"1009802008931512320","2018-06-21 14:15:34+00:00",-0.4995,0,0
-"1009767427389915137","2018-06-21 11:58:09+00:00",-0.4995,0,0
-"1009741640234356736","2018-06-21 10:15:41+00:00",-0.4995,0,0
-"1009662337962344448","2018-06-21 05:00:34+00:00",-0.4995,0,0
-"1009660195365183488","2018-06-21 04:52:03+00:00",-0.4995,0,0
-"1009658418410508288","2018-06-21 04:45:00+00:00",-0.4995,0,0
-"1009652885557309446","2018-06-21 04:23:01+00:00",-0.4995,0,0
-"1009641894052356096","2018-06-21 03:39:20+00:00",-0.4995,0,0
-"1009630507406184448","2018-06-21 02:54:05+00:00",-0.4995,0,0
-"1009629889408970752","2018-06-21 02:51:38+00:00",-0.4995,0,0
-"1009627206702764039","2018-06-21 02:40:58+00:00",-0.4995,0,0
-"1009616004987711488","2018-06-21 01:56:28+00:00",-0.4995,0,0
-"1009615935685226499","2018-06-21 01:56:11+00:00",-0.4995,0,0
-"1009602645542268930","2018-06-21 01:03:22+00:00",-0.4995,0,1
-"1009591272393379842","2018-06-21 00:18:11+00:00",-0.4995,0,1
-"1009585858834509824","2018-06-20 23:56:40+00:00",-0.4995,0,1
-"1009584619556081669","2018-06-20 23:51:45+00:00",-0.4995,0,1
-"1009580467727884289","2018-06-20 23:35:15+00:00",-0.7213,0,1
-"1009579933562220545","2018-06-20 23:33:07+00:00",-0.4995,0,1
-"1009568159744122883","2018-06-20 22:46:20+00:00",-0.4995,0,1
-"1009567526764924928","2018-06-20 22:43:49+00:00",-0.4995,0,1
-"1009562341564997633","2018-06-20 22:23:13+00:00",-0.7213,0,1
-"1009561371544080384","2018-06-20 22:19:22+00:00",-0.4995,0,1
-"1009560958187032581","2018-06-20 22:17:43+00:00",-0.4995,0,1
-"1009560468439085057","2018-06-20 22:15:47+00:00",-0.4995,0,1
-"1010133783348170762","2018-06-22 12:13:55+00:00",-0.6486,0,0
-"1010618680676405249","2018-06-23 20:20:44+00:00",-0.6486,0,0
-"1010133902940430337","2018-06-22 12:14:24+00:00",-0.6486,0,0
-"1010134680631422976","2018-06-22 12:17:29+00:00",-0.6486,0,0
-"1010135031514324994","2018-06-22 12:18:53+00:00",0.802,0,0
-"1010135278374277121","2018-06-22 12:19:52+00:00",-0.68,0,0
-"1010137299122884608","2018-06-22 12:27:54+00:00",-0.6486,0,0
-"1011092856231129089","2018-06-25 03:44:56+00:00",-0.296,0,0
-"1011094021337419776","2018-06-25 03:49:34+00:00",-0.4767,0,0
-"1011094432169512960","2018-06-25 03:51:12+00:00",0.0,0,0
-"1010747741994147840","2018-06-24 04:53:35+00:00",-0.7404,0,0
-"1010140006210592768","2018-06-22 12:38:39+00:00",-0.7404,0,0
-"1010140431697379328","2018-06-22 12:40:21+00:00",-0.7003,0,1
-"1010140499343126528","2018-06-22 12:40:37+00:00",-0.6486,0,0
-"1010140898196324352","2018-06-22 12:42:12+00:00",-0.1779,0,0
+"1014161883795021824","2018-07-03 15:00:09+00:00","1425768217","We are the NHS.  Do you want to join us?  https://t.co/ffHrpPcsCP  #jobs #NHS70\n#NHS365 #Norfolk",0.3612,0,0
+"1014161857731579906","2018-07-03 15:00:03+00:00","581858450","We are the NHS.  Do you want to join us?  https://t.co/nRtlAHsa1F  #jobs #NHS70\n#NHS365 #Norfolk",0.3612,0,0
+"1014161823699030016","2018-07-03 14:59:55+00:00","2596313648","We are the NHS.  Do you want to join us?  https://t.co/pC6ERxL8ZR  #jobs #NHS70\n#NHS365 #Norfolk",0.3612,0,0
+"1014102914011402240","2018-07-03 11:05:50+00:00","450158202","And, thanks to the lovely people at @ITV - the 30 sec version is going to be broadcast tonight for the first time during #ENGCOL #WorldCup2018 eek https://t.co/EHrMd4aIn6",0.7717,0,1
+"1014139562363424768","2018-07-03 13:31:28+00:00","589121855","The NHS is 70 - let's reverse privatisation with #NHSTakeback! Ask your MP to sign the pledge https://t.co/JZnZnVoUBl @We_OwnIt   PLEASE SIGN &amp; RT IF YOU AGREE. Thank you",0.8425,0,0
+"1014115320229920769","2018-07-03 11:55:08+00:00","516645637","The NHS is 70 - let's reverse privatisation with #NHSTakeback! We must get private companies, and private profit, out of the NHS; it should be run by the people, for the people. Ask your MP to sign the pledge: https://t.co/Z6OwpGvFUR @We_OwnIt",0.4926,0,0
+"1014158116286599169","2018-07-03 14:45:11+00:00","2346792441","NHS was not solely modelled on a Welsh workmen’s medical society https://t.co/C3SPuBmhYQ https://t.co/eHtCFAnTJJ",0.0,0,0
+"1014158105796628481","2018-07-03 14:45:09+00:00","3079876132","NHS was not solely modelled on a Welsh workmen’s medical society https://t.co/iUattiFrUz https://t.co/5KR89xJ2bV",0.0,0,0
+"1014205928109953025","2018-07-03 17:55:10+00:00","619304167","The NHS explained in eight charts https://t.co/SE8Uzb7f2Q via @ConversationUK",0.0,0,0
+"1014162125646901249","2018-07-03 15:01:07+00:00","57728149","The NHS explained in eight charts https://t.co/oz4afsejE1 via @ConversationUK",0.0,0,0
+"1014158162415575040","2018-07-03 14:45:22+00:00","124586149","Excellent article - ""The NHS explained in eight charts"" https://t.co/s8VBQsQgE9 via @ConversationUK",0.5719,0,0
+"1014156098021023746","2018-07-03 14:37:10+00:00","19037388","This is WELL worth reading, \nalthough the figures are from NHS England, \nthey do give GREAT Insights.\n\nThe NHS explained in eight charts https://t.co/6zX39KxEdt via @ConversationUK",0.8613,0,0
+"1014118569955741697","2018-07-03 12:08:03+00:00","13492362","The #NHS explained in eight charts https://t.co/5ioDuj9HfB via @ConversationUK",0.0,0,0
+"1014113471166861313","2018-07-03 11:47:47+00:00","75251309","The NHS explained in eight charts https://t.co/uw4EvK3czI via @ConversationUK",0.0,0,0
+"1014084407223832576","2018-07-03 09:52:18+00:00","335222352","The NHS explained in eight charts https://t.co/mtffd3BFAp via @ConversationUK",0.0,0,0
+"1014076006196502533","2018-07-03 09:18:55+00:00","48996717","The NHS explained in eight charts https://t.co/syfKJWRqzI via @ConversationUK",0.0,0,0
+"1014060316873904128","2018-07-03 08:16:34+00:00","98770568","The NHS explained in eight charts https://t.co/0zVjlxmqqZ via @ConversationUK #nhs",0.0,0,0
+"1014056078504615936","2018-07-03 07:59:44+00:00","365904677","The NHS explained in eight charts https://t.co/ROn04uzXdl via @ConversationUK",0.0,0,0
+"1014052880725180416","2018-07-03 07:47:01+00:00","1278863941","The NHS explained in eight charts https://t.co/ZlAQr2XBmG via @ConversationUK",0.0,0,0
+"1014051530339733505","2018-07-03 07:41:39+00:00","2274476539","Such an interesting read on the NHS at 70!  @ahps4ph The NHS explained in eight charts https://t.co/Cwg0DB9itf via @ConversationUK",0.4574,1,1
+"1014049919894720512","2018-07-03 07:35:15+00:00","1536569971","The NHS explained in eight charts https://t.co/1IZRu8x90m via @ConversationUK",0.0,0,0
+"1014038749561450496","2018-07-03 06:50:52+00:00","175089187","The NHS explained in eight charts https://t.co/x7bo7OVeyn via @ConversationUK",0.0,0,0
+"1014036568745504770","2018-07-03 06:42:12+00:00","2479088160","The NHS explained in eight charts https://t.co/3ubmcNlzm2 via @ConversationUK",0.0,0,0
+"1014035266884001792","2018-07-03 06:37:02+00:00","1156864106","An interesting read.  The NHS explained in eight charts https://t.co/FxTmisysk4 via @ConversationUK",0.4019,1,4
+"1014034752159014912","2018-07-03 06:34:59+00:00","1049018250","The NHS explained in eight charts https://t.co/mCZ9XsWlLW via @ConversationUK",0.0,0,1
+"1014033891479285760","2018-07-03 06:31:34+00:00","1926978361","Not sure I agree with ""explained"" but lots of good stuff in here: The #NHS explained in eight charts https://t.co/QvEA0sPty9 via @ConversationUK #dataviz",0.4242,0,2
+"1014031161365073920","2018-07-03 06:20:43+00:00","274938558","Want to understand the NHS and the pressures it faces today? The NHS explained in eight charts: https://t.co/SQUxnoBi7U via @ConversationUK",-0.25,0,1
+"1014030790173347841","2018-07-03 06:19:14+00:00","92288119","What an incredible achievement! https://t.co/CbZaOuXdeG via @ConversationUK",0.0,1,2
+"1014026883170820097","2018-07-03 06:03:43+00:00","500089086","If the NHS is sick, then so are we... Lets love it, it might make our life a bit more liveable. The NHS explained in eight charts https://t.co/aRK9Hp8U5r via @ConversationUK",0.2263,0,0
+"1014023172130209792","2018-07-03 05:48:58+00:00","2471373550","The #NHS explained in eight charts https://t.co/9Vl7oQ1cuL via @ConversationUK",0.0,0,0
+"1014021044842180608","2018-07-03 05:40:31+00:00","240667585","The NHS explained in eight charts https://t.co/AZM3ZuCqBN via @ConversationUK",0.0,5,12
+"1013918626888519686","2018-07-02 22:53:33+00:00","1317340166","The NHS explained in eight charts https://t.co/gBO3c6keih via @ConversationUK",0.0,0,0
+"1014210126910238720","2018-07-03 18:11:52+00:00","25813619","Nurses quit NHS to work in Lidl because pay, hours and benefits better https://t.co/YZo2hRsOYO",0.6249,0,0
+"1014208236394827776","2018-07-03 18:04:21+00:00","35695349","Nurses quit NHS to work in Lidl because pay, hours and benefits better https://t.co/0GdM91xITE via @LondonEconomic-  this is what you get when you #votetory",0.6249,0,0
+"1014207179262394368","2018-07-03 18:00:09+00:00","4167266775","""With an astonishing shortage of 40,000 nurses across the UK, the NHS continues to face a drain on staffing as nurses quit for better pay, hours and benefits in... https://t.co/Aacuch61a7",0.4767,1,1
+"1014204813490442240","2018-07-03 17:50:45+00:00","275718680","Nurses quit NHS to work in Lidl because pay, hours and benefits better https://t.co/shrWeiBlRR",0.6249,0,0
+"1014158995978891264","2018-07-03 14:48:41+00:00","127503320","How is Theresa May’s NHS funding boost landing with voters? https://t.co/NoRRx5Ahhs",0.4019,3,1
+"1014158815535738880","2018-07-03 14:47:58+00:00","187561714","How is Theresa May’s big NHS funding boost landing with voters? 'The public sort of shrugged,’ says one Tory MP https://t.co/azPY3CsgDb",0.4019,3,4
+"1014201534345891841","2018-07-03 17:37:43+00:00","1288257396","How to keep the baby safe during the hot weather? https://t.co/PhuGgqccWt @NHSEngland @RBFTmaternity @HHFTnhs @GWH_NHS @OUHospitals @NewburyNCT @NCTcharity @WestBerksPH @BerksWestCCG @WestBerksMums @MidwivesRCM @MaternityVoices @WBerksLibraries @WestBerkshire #NHS70 https://t.co/m57AY4wKeE",0.4404,0,0
+"1014174921558249472","2018-07-03 15:51:58+00:00","192304537","Try these tips for keeping your babies/children happy and healthy in the heat 😊👶🤱 https://t.co/FqmPzfRLnd",0.7506,0,0
+"1014162590933684224","2018-07-03 15:02:58+00:00","527752220","its still hot so have a look at these tips to keep your baby cool in this heat wave.  https://t.co/ys639JFCXa https://t.co/ys639JFCXa",0.3182,0,0
+"1014109042917208065","2018-07-03 11:30:11+00:00","3301495258","If you're worried about keeping your baby safe during the heatwave, here are some tips from NHS! #Heatwave #StaySafe\nhttps://t.co/nanRyZmQ8t https://t.co/AoO7E2MpR4",0.2481,1,0
+"1013809849656889345","2018-07-02 15:41:18+00:00","25486821","There’s lots of practical advice for parents on the NHS website on how to keep young children and babies cool in the heat, room thermometers are particularly useful. It’s all here https://t.co/6qoeLrwxbV and worth a read through https://t.co/sh8hxpabC8",0.7501,1,0
+"1014157864649281536","2018-07-03 14:44:11+00:00","3298930835","NHS app to end scramble for GP appointments https://t.co/BURquM051h via @pharmaphorum",0.0,0,0
+"1014157977144709120","2018-07-03 14:44:38+00:00","1175787966","NHS Jobs - Research Assistant https://t.co/Uf1yJWy1uE",0.0,2,0
+"1014158080651726848","2018-07-03 14:45:03+00:00","4297938873","Impossible for all GPs to offer appointments via NHS app by December, warns GPC #GPs #GPAccess #Technology https://t.co/JM7Ma275x1",-0.1027,0,0
+"1014107654355070976","2018-07-03 11:24:40+00:00","2194338684","Impossible for all GPs to offer appointments via additional #NHS app by December, warns @TheBMA GPC https://t.co/6Q3lgJtUFG\n@nickbostock @GPonlinenews @DrFJameel @rvautrey \n@PatientOnline https://t.co/Ms4xbzqx6y",-0.1027,3,0
+"1014158151065759744","2018-07-03 14:45:20+00:00","216402679","Celebrate the #NHS70 at Tinkers Lane Surgery in Bassett https://t.co/pNG8bBoeHQ",0.5719,0,0
+"1014158208401846272","2018-07-03 14:45:33+00:00","270569708","Editorial: Lifting the freeze on fuel duty might be a regressive tax – but it is the best option to fund the NHS\nhttps://t.co/e7TGSwdPTI",0.7845,0,0
+"1014189565257580546","2018-07-03 16:50:09+00:00","762092556","Chancellor could hike taxes on fuel and alcohol to help fund NHS boost https://t.co/Z9liyrutid via @MailOnline",0.6597,0,0
+"1014158270498574337","2018-07-03 14:45:48+00:00","2384155796","Chancellor could hike taxes on fuel and alcohol to help fund NHS boost https://t.co/dKritYMhv5",0.6597,0,0
+"1014089263863001088","2018-07-03 10:11:36+00:00","818347508","Chancellor could hike taxes on fuel and alcohol to fund NHS boost https://t.co/K4Pk0tmCMZ via @PhilipHammondUK if you increase FUEL DUTY or any tax to raise funds for the NHS you Sir are a disgrace. The NHS needs fixing otherwise spending will increase every year with no fix.",0.2263,0,0
+"1014079575310192640","2018-07-03 09:33:06+00:00","251771284","Chancellor could hike taxes on fuel and alcohol to help fund NHS boost https://t.co/NApeNlBExk via @MailOnline",0.6597,0,0
+"1014077417672015875","2018-07-03 09:24:31+00:00","277964142","Chancellor could hike taxes on fuel and alcohol to help fund NHS boost\n https://t.co/zD0ftWb3oE",0.4019,0,0
+"1014158333073387520","2018-07-03 14:46:03+00:00","1367112637","We are in the #NHS70 @Conversation What was healthcare like before the NHS? @weloveresearch \nhttps://t.co/yXOzKEvucm via @ConversationUK",0.3612,0,4
+"1014158438471995392","2018-07-03 14:46:28+00:00","1175787966","NHS Jobs - Research Associate - The Research Centre https://t.co/JPpIWkzIub",0.0,1,0
+"1014158494688260097","2018-07-03 14:46:41+00:00","165096250","NHS looks towards privacy, Nomad Health expands to the Midwest and other digital health news briefs  https://t.co/apqHfqikmR #digitalhealth",0.1027,0,0
+"1014188637473435648","2018-07-03 16:46:28+00:00","21432560","‘We send the EU £350M per week. Let’s double that &amp; throw it away. Then let’s raise all sorts of taxes to make you all think that we kept a promise.’ https://t.co/qbvfOLv4gL",0.0,7,9
+"1014177630432780295","2018-07-03 16:02:44+00:00","226646848","Fuel duty is a regressive tax that hits the poorest in our society the hardest. Yes, fund the NHS. But we must ensure our sources of funding are fair. https://t.co/RqcGVDBcZe",0.714,0,3
+"1014158964743901184","2018-07-03 14:48:34+00:00","3651687496","#volunteer as a Community Befriender for Sussex Partnership NHS Foundation Trust https://t.co/8feskzWiXH",0.5106,0,0
+"1014159019735441408","2018-07-03 14:48:47+00:00","3211554120","The NHS is our religion: it’s the only thing that saves it from the Tories https://t.co/SbHkQTngSa",0.0,0,0
+"1014180846037884934","2018-07-03 16:15:30+00:00","858882396","UK:  Medical Schools Turn Away Star Students, NHS Recruits Third World Docs.\n\n https://t.co/jLHdWv0VoY  @BreitbartNews",0.0,0,0
+"1014159021631295489","2018-07-03 14:48:47+00:00","3772895061","Medical Schools Turn Away Star Students, NHS Recruits Third World Docs https://t.co/HMDdJ2e2lh via @BreitbartNews",0.0,0,0
+"1014156548262723585","2018-07-03 14:38:57+00:00","3005651439","Medical Schools Turn Away Star Students, NHS Recruits Third World Docs https://t.co/efIKmQQFaP",0.0,0,0
+"1014138870458454017","2018-07-03 13:28:43+00:00","880099198779215872","Medical Schools Turn Away Star Students, NHS Recruits Third World Docs https://t.co/UgeANoVE5O via @BreitbartNews",0.0,0,1
+"1014119302440673281","2018-07-03 12:10:57+00:00","4568453987","SOCIALIZED MEDICINE.\nWEEEEEEEEEEEEEEEEEEEEEEEEEE!!!\nALEHANDERA OREO-CORTEZ!!!\n\nBritish Medical Schools Turn Away Straight-A Students While NHS Plunders Third World for Doctors https://t.co/aY2gbGT7yO via @BreitbartNews",0.0,0,0
+"1014159068016103424","2018-07-03 14:48:58+00:00","3211554120","70 years of the NHS: How Aneurin Bevan created our beloved health service https://t.co/XboZdGgkoX",0.6486,0,0
+"1014209348803944448","2018-07-03 18:08:46+00:00","36200895","Five ideas from other health systems that could transform #NHS https://t.co/jfveAIdVIH",0.0,0,0
+"1014205971856613377","2018-07-03 17:55:21+00:00","15181476","Five ideas from other health systems that could transform NHS https://t.co/2tB8K1OVwH Some fantastic ideas, here. I particularly like the concept of Innovation Procurement.",0.8399,0,0
+"1014201355551019008","2018-07-03 17:37:00+00:00","42848046","A great summary on what we can learn from other health systems   https://t.co/yExR5KDnMH",0.6249,0,1
+"1014197076861882368","2018-07-03 17:20:00+00:00","28574460","Five ideas from other health systems that could transform NHS https://t.co/YH4XGJmlHX",0.0,5,3
+"1014196670073114625","2018-07-03 17:18:23+00:00","769928387657887744","Five ideas from other health systems that could transform NHS https://t.co/8eesJZp3rl",0.0,0,0
+"1014191648480419842","2018-07-03 16:58:26+00:00","562415248","Five ideas from other health systems that could transform NHS https://t.co/xehDzJixv6 https://t.co/xehDzJixv6",0.0,0,0
+"1014191547070472192","2018-07-03 16:58:02+00:00","47462419","Five ideas from other health systems that could transform NHS https://t.co/YdA1lH2iFu",0.0,0,0
+"1014171459416133632","2018-07-03 15:38:12+00:00","557693635","Yes Yes Yes Yes Yes !\nFive ideas from other health systems that could transform NHS https://t.co/CZlPQSi7tl",0.9151,0,0
+"1014171137138413568","2018-07-03 15:36:56+00:00","727862617847549953","Here's a better one from here, #ToriesOut!\nFive ideas from other health systems that could transform NHS https://t.co/OY7fdoqYDx",0.4926,0,0
+"1014159368974151680","2018-07-03 14:50:10+00:00","1688351","Five ideas from other health systems that could transform NHS https://t.co/I0XfVzUtnG",0.0,0,0
+"1014157019723509762","2018-07-03 14:40:50+00:00","2890870049","Five ideas from other health systems that could transform NHS https://t.co/x93SFV57DW",0.0,0,0
+"1014143315556564993","2018-07-03 13:46:22+00:00","1009421104031641602","Five ideas from other health systems that could transform NHS https://t.co/hUlF0Mni49",0.0,0,0
+"1014139147215392768","2018-07-03 13:29:49+00:00","604907917","Five ideas from other health systems that could transform NHS https://t.co/Khxp5GQmE4 #globalhealth #healthsystems",0.0,2,0
+"1014139047978196992","2018-07-03 13:29:25+00:00","2748953101","Five ideas from other health systems that could transform NHS https://t.co/Bb7l57B7DL",0.0,0,0
+"1014138897494888448","2018-07-03 13:28:49+00:00","2912828657","There's no perfect health/social care system but we can learn from each other - Five ideas from other health systems that could transform NHS https://t.co/tglir4I4p5 #sláintecare",0.431,1,2
+"1014133909163073537","2018-07-03 13:09:00+00:00","17945884","“These health innovations from Sweden, Israel and beyond could help revolutionise the NHS” https://t.co/UXmNVbSxLS",0.4019,0,0
+"1014132313662377984","2018-07-03 13:02:39+00:00","44089597","Five ideas from other health systems that could transform NHS https://t.co/y3NPbjr8U9",0.0,0,0
+"1014130310018228224","2018-07-03 12:54:42+00:00","3073662597","Five ideas from other health systems that could transform NHS https://t.co/ZPqfWQOd7x",0.0,0,0
+"1014129458217971712","2018-07-03 12:51:19+00:00","1489776218","Five ideas from other health systems that could transform NHS https://t.co/MRcsDmcxN9",0.0,0,4
+"1014126077470441472","2018-07-03 12:37:53+00:00","203994446","Five ideas from other health systems that could transform NHS https://t.co/hzTC0NdaY4",0.0,0,0
+"1014123676126662656","2018-07-03 12:28:20+00:00","365904677","Five ideas from other health systems that could transform NHS:  in Sweden GPs and paediatricians are co-located in health centres where there is parental support, health education and promotions, all important for preventing ill health. https://t.co/0jQBZ3gCdD",0.1531,1,1
+"1014116300061364224","2018-07-03 11:59:01+00:00","2650578383","Five ideas from other health systems that could transform NHS https://t.co/A8IkVUlAEU",0.0,0,0
+"1014115516271783941","2018-07-03 11:55:55+00:00","505129964","Five ideas from other health systems that could transform NHS https://t.co/aUPKEBIECX",0.0,0,0
+"1014115401851076609","2018-07-03 11:55:27+00:00","1011662005","With rates of #children admitted to A&amp;E rising, what can #NHS learn from #Sweden? #GPs often have limited training in #paediatrics, but in Sweden GPs &amp; #paediatricians are co-located in health centres where there is #parental support &amp; #health promotion. https://t.co/12ftCfaEkq",0.5106,1,1
+"1014115398810292224","2018-07-03 11:55:27+00:00","1407472260","Great to see @ingridjohanna66\nhighlighting childrens health issues &amp; models to tackle a problem an issue commonly left in the dark!\n@EditorNPPG @RCPCHtweets @HealthyLDN\n\nFive ideas from other health systems that could transform NHS https://t.co/yh1HNj2ZRM\n\n@cyphplondon",0.4003,0,2
+"1014112242411991041","2018-07-03 11:42:54+00:00","893137046197424129","Some useful ideas are discussed here.\nFive ideas from other health systems that could transform NHS https://t.co/LD8ygKQapo",0.4404,0,0
+"1014109608665903104","2018-07-03 11:32:26+00:00","324836468","Five ideas from other health systems that could transform NHS https://t.co/YgVIY6D5D7",0.0,0,0
+"1014107677822279681","2018-07-03 11:24:46+00:00","716947422933553152","Five great ideas from other health systems that could transform NHS (and privatisation or marketisation is not one of them) https://t.co/dtW2PNMCrM",0.6249,0,0
+"1014105604305178624","2018-07-03 11:16:31+00:00","873941629559820288","Interesting food for thought. Five ideas from other health systems that could transform #NHS #healthcare #Innovations @NHS_Innovation @InnovationSIG  https://t.co/WmGdrYzGDv",0.4019,0,1
+"1014103158954455044","2018-07-03 11:06:48+00:00","3337016595","Five #Health system innovations, including one from #Ontario https://t.co/AEG4kZxK7k",0.0,1,1
+"1014097909762183169","2018-07-03 10:45:57+00:00","49969880","Five ideas from other health systems that could transform NHS https://t.co/rTfscoSTMS #NHS70",0.0,0,0
+"1014095684285419520","2018-07-03 10:37:06+00:00","18220900","Five ideas from other health systems that could transform NHS https://t.co/7lHiAwx86T",0.0,0,0
+"1014088394983510016","2018-07-03 10:08:08+00:00","355436498","Five ideas from other health systems that could transform NHS https://t.co/b1jiybMd1U",0.0,1,1
+"1014084058480103424","2018-07-03 09:50:54+00:00","138814158","Five ideas from other health systems that could transform NHS https://t.co/PGb4F8vT3j",0.0,0,0
+"1014167327410147329","2018-07-03 15:21:47+00:00","382170112","Where does one even begin with such a fatuous, arrogant, confused and baseless argument?\n\nhttps://t.co/09Edi4oOLK",-0.6705,1,1
+"1014159375777312770","2018-07-03 14:50:12+00:00","907502608272719873","The NHS social contract has been broken – by children refusing to look after their own parents ' | via @telegraph https://t.co/3LqKp5MkCZ",-0.7003,0,0
+"1014143518917431298","2018-07-03 13:47:11+00:00","285570360","The NHS social contract has been broken – by children refusing to look after their own parents - https://t.co/O2g86fMnYf https://t.co/Max6DmAza5",-0.7003,0,0
+"1014114786660012032","2018-07-03 11:53:01+00:00","19816004","Doesn't the social contract mean that the state /society takes on obligations of care rather than abandoning people? And leaving families to care with no support is abandonment... https://t.co/0GMOXO8aGX",0.6486,0,0
+"1014106729783726080","2018-07-03 11:21:00+00:00","818457496134287361","Clement Atlee would be appalled at the way people abuse the NHS.\nAnd at the AMOUNT of people who are now here to use it no doubt !!!\nThe NHS social contract has been broken – by children refusing to look after their own parents ' https://t.co/Midla9WfEo\n#MadeARodForOurOwnBacks",-0.9557,0,1
+"1014104223716397056","2018-07-03 11:11:02+00:00","394894513","The NHS social contract has been broken – by children refusing to look after their own parents ' | via @telegraph https://t.co/YMk1RKkIpJ",-0.7003,0,0
+"1014101916681416704","2018-07-03 11:01:52+00:00","2845140635","To be honest, our social contract has become take, take, take.  https://t.co/qTz91f2CQs",0.5106,0,0
+"1014101195013619715","2018-07-03 10:59:00+00:00","16343974","The NHS social contract has been broken – by children refusing to look after their own parents \nhttps://t.co/dzUcMjl0oF",-0.7003,9,23
+"1014159489019367427","2018-07-03 14:50:39+00:00","14087142","If you love the NHS. You will sign this. https://t.co/Da6Yej8RGe",0.6369,0,2
+"1010849249238667265","2018-06-24 11:36:56+00:00","128840173","Sign the NHS birthday card now https://t.co/in8pEiOosE",0.0,0,0
+"1010849087833493504","2018-06-24 11:36:17+00:00","701862450270961664","Sign the NHS birthday card now https://t.co/IwWRkyCm7T",0.0,0,0
+"1014159530547138565","2018-07-03 14:50:48+00:00","229389730","Management buy-out sees meal producer Anglia Crown ‘set for growth’ https://t.co/Ult4g6x6Hu #NHS #Catering",0.0,0,1
+"1014101994322186240","2018-07-03 11:02:11+00:00","626478586","Management buy-out sees meal producer Anglia Crown ‘set for growth’ https://t.co/AimNu9bdai",0.0,0,0
+"1014159598498934784","2018-07-03 14:51:05+00:00","2164801440","DeepMind, NHS use anonymized patient data in AI to avoid regulatory hurdles https://t.co/agKlqJ6RNH",-0.296,0,0
+"1014159604580790278","2018-07-03 14:51:06+00:00","437028296","How far will new funding for the NHS go? David Behan https://t.co/C30U1PtkBK will 'safeguard and stabilise the health service for years to come'. Amyas Morse https://t.co/43zqELPIU9 enough to maintain current service levels but not to meet needs of rapidly changing demographic",0.2023,0,0
+"1014159605964759040","2018-07-03 14:51:06+00:00","448885968","DeepMind, NHS use anonymized patient data in AI to avoid regulatory hurdles https://t.co/0T23fpJRPe",-0.296,0,0
+"1012306553846759424","2018-06-28 12:07:44+00:00","965937049755844608","Thanks to @dailytelegraph and @ivanhewett for this article on @BBCRadio3's #NHSSymphony, a new piece which marks #NHS70, blending recorded sounds of the NHS with music by @alexanderwoolf. \n\nThe #NHSSymphony premieres Sat 30 June, 9.30pm on @BBCRadio3: https://t.co/LQp8XmNR4i 🎶🏥 https://t.co/kbO9eDOk34",0.4404,3,9
+"1014168687857807363","2018-07-03 15:27:12+00:00","96093370","NHS England action to stop patients undergoing ineffective and risky treatments https://t.co/i7RST11ZJp",-0.5423,0,0
+"1014160014175559682","2018-07-03 14:52:44+00:00","949715054","NHS England action to stop patients undergoing ineffective and risky treatments https://t.co/SjWLSp50QA news item from NHS England",-0.5423,0,0
+"1014168692270292992","2018-07-03 15:27:13+00:00","96093370","Heat-health watch alert: level 2 – alert and readiness https://t.co/7LwbyTBQAg",0.6597,0,0
+"1014160025005281285","2018-07-03 14:52:46+00:00","949715054","Heat-health watch alert: level 2 – alert and readiness https://t.co/rQYdwjay2l news item from NHS England",0.6597,0,0
+"1014160100381069312","2018-07-03 14:53:04+00:00","14589034","BBC News - NHS nurses look back at their experiences in care https://t.co/6HB4ZzlecQ",0.4939,0,0
+"1014196723084914688","2018-07-03 17:18:36+00:00","945995834","Our analysis of pump #oil prices  comes as @financialtimes talks about raising fuel duty and its implication for the economy in response to article by @guardian today ""Raising fuel duty would be ‘absolute madness’, says Tory MP"" https://t.co/g3Y4nTVYQ8 via @financialtimes",0.0,0,0
+"1014196582714101760","2018-07-03 17:18:02+00:00","628268637","Raising fuel duty would be ‘absolute madness’, says Tory MP - https://t.co/u8aX2quhZy via @FT .. so where else will we raise tax to pay for the nhs given the non existent  brexit dividend #brexit",-0.1027,0,0
+"1014190770767659009","2018-07-03 16:54:57+00:00","71280219","Raising fuel duty would be ‘absolute madness’: https://t.co/noY453lZNH",0.0,4,5
+"1014177181466013696","2018-07-03 16:00:57+00:00","51698509","Finger points at #HS2 Hopes of raising UK fuel duty run into opposition https://t.co/THgugo6Bqu via @financialtimes",0.4215,0,0
+"1014167239954755586","2018-07-03 15:21:26+00:00","212019982","Hopes of raising UK fuel duty run into opposition https://t.co/497G7q61YX via @financialtimes // ""Other possible revenue-raisers include delaying planned increases in income tax bands, and cancelling the 2p cut in corporation tax scheduled for 2020.""",-0.0258,0,0
+"1014160408326868993","2018-07-03 14:54:18+00:00","123560362","First of many tax battles to fund the NHS rise. https://t.co/SJ0fy3k4ZO",-0.3818,2,2
+"1014160344799854592","2018-07-03 14:54:03+00:00","495043728","Hopes of raising UK fuel duty run into opposition https://t.co/otlG0ZPU7X",0.4215,0,0
+"1014158903666462720","2018-07-03 14:48:19+00:00","43861003","Hopes of raising UK fuel duty run into opposition https://t.co/Q4K9ZpC4gO",0.4215,0,0
+"1014157476575502338","2018-07-03 14:42:39+00:00","65109514","Hopes of raising UK fuel duty run into opposition https://t.co/a7smGrmH1j https://t.co/H56uidts7A",0.4215,0,0
+"1014156712591413248","2018-07-03 14:39:37+00:00","40259056","Hopes of raising UK fuel duty run into opposition https://t.co/vWjcmPKE1k",0.4215,0,0
+"1014156686209245186","2018-07-03 14:39:30+00:00","312677640","Hopes of raising UK fuel duty run into opposition https://t.co/15oawVZdiX",0.4215,0,0
+"1014156642676592641","2018-07-03 14:39:20+00:00","18949452","Hopes of raising UK fuel duty run into opposition https://t.co/7uE1LaGwWh",0.4215,7,5
+"1014156589295521792","2018-07-03 14:39:07+00:00","849590740246290433","Hopes of raising UK fuel duty run into opposition https://t.co/VZGsUza7IC https://t.co/EU73EDa3Rk",0.4215,0,0
+"1014156161522851840","2018-07-03 14:37:25+00:00","823287233952280576","Hopes of raising UK fuel duty run into opposition https://t.co/17utixvAXS",0.4215,0,0
+"1014160476794687489","2018-07-03 14:54:34+00:00","173412138","Join me for NHS 70th Anniversary https://t.co/TPjER95FoL #labourdoorstep",0.296,0,1
+"1014197500046168065","2018-07-03 17:21:41+00:00","253043866","Top doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/K91HSHLJNv via @MailOnline",-0.4215,0,0
+"1014170356540682240","2018-07-03 15:33:50+00:00","161684980","NHS doctors are prematurely ending the lives of thousands of elderly hospital patients. https://t.co/nPOnb80W3C via @MailOnline",0.0,0,0
+"1014135919606190080","2018-07-03 13:16:59+00:00","924970855700066304","Top doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/wsjY4os0An via @MailOnline",-0.4215,0,0
+"1014116794511085568","2018-07-03 12:00:59+00:00","15722163","Top doctor's chilling claim: The @NHSEngland kills off 130,000 elderly patients every year\nhttps://t.co/hvffYQnrnb via @MailOnline\nThat's what you get with socialized medicine . . . or socialized anything for that matter.",-0.4019,0,0
+"1014113300550955008","2018-07-03 11:47:06+00:00","387870154","Top doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/96Lk9YRW2g via @MailOnline this is happening now !",-0.4753,0,0
+"1014106984444985344","2018-07-03 11:22:00+00:00","268878971","Top doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/LErk7jEy4T via @MailOnline",-0.4215,0,0
+"1014105165958471680","2018-07-03 11:14:47+00:00","80661033","Top doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/8oCUKXvZO0",-0.4215,0,0
+"1013999663144456192","2018-07-03 04:15:33+00:00","981208373625544704","WE LUV OUR NHS - JUST DON'T GROW OLD - Top doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/Ybr2Me9f0h via @MailOnline",-0.636,1,0
+"1013923825946329090","2018-07-02 23:14:12+00:00","1620295687","Top doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/rq7FR9fL3j via @MailOnline",-0.4215,0,0
+"1013883698629042178","2018-07-02 20:34:45+00:00","39022513","Top doctor's chilling claim: The NHS #kills off 130,000 ELDERLY patients every year https://t.co/YhLJAw9Mu8 via @MailOnline Absolutely SHOCKING!!!😱😩 this could be your Mum, Dad, Granny, Grandad, Aunt, Uncle, Brother, Sister, Niece, Nephew OMG rt",0.3769,3,0
+"1013880029204369408","2018-07-02 20:20:10+00:00","2236585512","Top doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/FWoVnxT6hM via @MailOnline",-0.4215,0,0
+"1013851194421383168","2018-07-02 18:25:35+00:00","140604619","From 2012, so #Gosport was widespread and known about even back then. #Envyoftheworld in bumping off OAPs with no questions asked.\n\nTop doctor's chilling claim: The NHS  kills off 130,000 elderly patients every year https://t.co/mBLdu7pT9t",-0.7003,0,0
+"1013819603334631428","2018-07-02 16:20:03+00:00","472397721","Top doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/vq8nKCxWOr",-0.4215,0,0
+"1013811350215233536","2018-07-02 15:47:16+00:00","3998221213","What you get with single payer healthcare. It’s a death sentence for many elderly patients!  https://t.co/NWdiLB8EVG",-0.5983,0,0
+"1013769634317787137","2018-07-02 13:01:30+00:00","27006084","MEANWHILE!..........doctors killing off the elderly...on the Liverpool 'Care' Pathway (WHO invented that name?!)....I so wish I were making this up!  @NHSMillion @drbenwhite @DancingTheMind @PeterStefanovi2 \nhttps://t.co/C5GjRH9jsm https://t.co/nEfBXocW5i",-0.4185,0,0
+"1013754378669428737","2018-07-02 12:00:53+00:00","993636888522166273","Top doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/jm1rBJcrgk via @MailOnline",-0.4215,1,1
+"1013709108246188033","2018-07-02 09:00:59+00:00","712987604","Top doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/dSbRqmqIDk",-0.4215,0,0
+"1013697035235667968","2018-07-02 08:13:01+00:00","28665088","Top doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/rxwI2D4lWQ",-0.4215,0,0
+"1013666293629833216","2018-07-02 06:10:52+00:00","296286514","NHS doctors are prematurely ending the lives of thousands of elderly hospital patients because they are difficult to manage or to free up beds, a senior... https://t.co/eLXG5x8bNH",0.2023,0,0
+"1013599961542520833","2018-07-02 01:47:17+00:00","119806126","2012 Top doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/bAIw1fk8NU via @MailOnline",-0.4215,3,1
+"1013530090238611456","2018-07-01 21:09:38+00:00","228784116","Top doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/OfXWvRe0nF",-0.4215,0,0
+"1013526908213055489","2018-07-01 20:56:59+00:00","744358530623340544","NHS doctors are prematurely ending the lives of, MURDERING, thousands of elderly hospital patients because they are difficult to manage or to free up... https://t.co/t1MxAH6IaC",-0.6408,1,0
+"1012980409884446720","2018-06-30 08:45:24+00:00","1684443572","#Free4AllForever\n\nTop doctor's chilling claim: The NHS kills off 130,000 elderly patients every year https://t.co/LUXAslsKcp via @MailOnline",-0.5574,0,2
+"1011582350306799616","2018-06-26 12:10:01+00:00","2509279249","@CF_Farrow There was also this story. Not sure whatever came of it, though.\n\nhttps://t.co/YWtI54NCuj",-0.2411,1,0
+"1014160621317906432","2018-07-03 14:55:08+00:00","481011796","How is Theresa May’s NHS funding boost landing with voters? https://t.co/Twms27XsKi",0.4019,0,0
+"1014160625029779457","2018-07-03 14:55:09+00:00","23767680","The NHS is turning 70 on 5 July! How would you celebrate the everyday heroes at the NHS? https://t.co/98bYnmFcQA https://t.co/H73kwAjJVF",0.807,0,0
+"1014160662296170497","2018-07-03 14:55:18+00:00","17645505","May’s extra cash for NHS is not enough, says spending watchdog https://t.co/hKKLd17ixF",0.0,0,0
+"1014160689341050880","2018-07-03 14:55:25+00:00","2530505347","NHS data breach affects 150,000 patients in England | https://t.co/SqBPY25y6g",0.0,0,0
+"1013828407719755776","2018-07-02 16:55:03+00:00","2530505347","NHS data breach affects 150,000 patients in England | https://t.co/SqBPY25y6g",0.0,1,0
+"1014182072980733953","2018-07-03 16:20:23+00:00","314601990","Fuel and alcohol duty freeze to be lifted to help fund NHS boost - Sky News. Sod the poor? https://t.co/W2O7zpyGN0",0.3612,0,0
+"1014163074671169540","2018-07-03 15:04:53+00:00","116140100","So much for the Brexit dividend 🙄 https://t.co/uz6LgbqgdC",0.0,0,0
+"1014160748375953408","2018-07-03 14:55:39+00:00","331804396","Fuel and alcohol duty freeze to be lifted to help fund NHS boost - Sky News https://t.co/2hpNtpNxWS",0.6808,0,0
+"1014157508234137600","2018-07-03 14:42:46+00:00","3119774979","This sums up the public sector - running at a loss = raise taxes and pump more money in...  https://t.co/ZVkMwL5WAJ",-0.3182,0,0
+"1014155253153968129","2018-07-03 14:33:49+00:00","15002660","Fuel and alcohol duty freeze to be lifted to help fund NHS boost &lt; sensible, given both contribute to poor health... https://t.co/MRgfvSZ1X7",0.3612,0,0
+"1014152796751515648","2018-07-03 14:24:03+00:00","2176111503","First #brexit dividend.... https://t.co/klJIyCC1lX",0.0,0,1
+"1014147978536390656","2018-07-03 14:04:54+00:00","16104398","Fuel and alcohol duty freeze to be lifted to help fund NHS boost - Sky News https://t.co/QZ1qJjRwmF",0.6808,0,0
+"1014138596444524544","2018-07-03 13:27:37+00:00","15439004","But ⁦@jeremycorbyn⁩ said it was a “Brexit Dividend”. Please don’t tell me that nice fellow with the beard Mr Corbyn lies to us all! https://t.co/xm3pvTzV9T",0.501,0,0
+"1014138240817942528","2018-07-03 13:26:13+00:00","18283959","Fuel and alcohol duty freeze to be lifted to help fund NHS boost - Sky News https://t.co/vboAGyiibk",0.6808,0,1
+"1014138212372099072","2018-07-03 13:26:06+00:00","17718434","Fuel and alcohol duty freeze to be lifted to help fund NHS boost - Sky News https://t.co/UXV6kYuZvK",0.6808,0,0
+"1014136614434549761","2018-07-03 13:19:45+00:00","1389178064","Fuel and alcohol duty freeze to be lifted to help fund NHS boost - Sky News https://t.co/Z6Q1XZoAVx",0.6808,0,0
+"1014161089356017664","2018-07-03 14:57:00+00:00","76358200","NHS #databreach caused details of 150,000 patients to be shared https://t.co/Pke71ODuWT via @computerweekly",0.34,1,0
+"1014158977100406786","2018-07-03 14:48:36+00:00","2609624130","But don't worry the app will be fine of course #nhs\nNHS data breach caused details of 150,000 patients to be shared https://t.co/DTh63pExrC via @computerweekly",0.8131,0,0
+"1014112387065176064","2018-07-03 11:43:29+00:00","65016869","NHS data breach caused details of 150,000 patients to be shared https://t.co/w3sbtK8JX0 via @computerweekly",0.34,0,0
+"1014187059794403329","2018-07-03 16:40:12+00:00","3034218514","Staffing crisis prompts NHS recruitment drive https://t.co/mBpqaAZ65d",-0.6249,0,0
+"1014161200496758784","2018-07-03 14:57:27+00:00","738754873","Staffing crisis prompts #NHS recruitment drive https://t.co/6H1veTiId6",-0.6249,0,0
+"1014078535793815552","2018-07-03 09:28:58+00:00","20785233","Staffing crisis prompts NHS recruitment drive. ‘So many are leaving the NHS. The consensus on the work front is - when there’s such blatant lack of respect from this government for your professional contribution, your value will ultimately take a blow.’ https://t.co/HuJFrmi54l",-0.2263,0,1
+"1014065751488069634","2018-07-03 08:38:10+00:00","2440358133","Staffing crisis prompts NHS recruitment drive https://t.co/yX6a8aR3Pn https://t.co/bJPHz6vJve",-0.6249,1,2
+"1014064092980699136","2018-07-03 08:31:34+00:00","1249600058","Revoke Brexit! https://t.co/JnQWW8bLwV",0.0,0,0
+"1014060674522210304","2018-07-03 08:17:59+00:00","1863242227","Staffing crisis prompts NHS recruitment drive https://t.co/FpuWtCcdid",-0.6249,0,0
+"1014048694788919296","2018-07-03 07:30:23+00:00","4164223757","I've got a good idea, lets get rid of the nursing bursary. That will attract them in, oh and lets give them a £50k debt. Also lets stop these migrant nurses &amp; doctors coming over here taking our jobs.  https://t.co/SzNlFbi2YL",0.1779,0,1
+"1014041768688586753","2018-07-03 07:02:52+00:00","875030296357416960","Staffing crisis prompts NHS recruitment drive https://t.co/hcP0AEbbEk https://t.co/5UNrCTqlfP",-0.6249,0,0
+"1014040730816385024","2018-07-03 06:58:44+00:00","390282687","@skynews only a staffing problem due to the massive influx in an open border policy allowing 3+million in without thinking about the effects on our services  https://t.co/2HNaliWmOk https://t.co/9jzuc7nE7b",-0.4019,0,0
+"1014038077835268096","2018-07-03 06:48:12+00:00","4872707613","Staffing crisis prompts NHS recruitment drive ⁦will focus on 14-18 yers olds....doesn’t solve issues now unfortunately  https://t.co/kRvbiIJzKg https://t.co/awed8FksSk",-0.6908,2,2
+"1014035568706117632","2018-07-03 06:38:14+00:00","340825754","Staffing crisis prompts NHS recruitment drive https://t.co/SfUM6dmsWR https://t.co/8CauyYJN1R",-0.6249,0,0
+"1014030229344485376","2018-07-03 06:17:01+00:00","986555622425579522","Staffing crisis prompts #NHS recruitment drive https://t.co/MfeZYLelyH",-0.6249,0,0
+"1014020026230300673","2018-07-03 05:36:28+00:00","836255869935489025","Staffing crisis prompts NHS recruitment drive https://t.co/hxOwavjG17 https://t.co/BAlul0exHN",-0.6249,0,0
+"1014019389434327040","2018-07-03 05:33:56+00:00","21707108","Staffing crisis prompts NHS recruitment drive https://t.co/5z3b5UfsnT https://t.co/HE8PU9PwwL",-0.6249,0,0
+"1014018082417889280","2018-07-03 05:28:45+00:00","118797898","Staffing crisis prompts NHS recruitment drive https://t.co/rW1VkQVw4Y",-0.6249,0,0
+"1014015368527007744","2018-07-03 05:17:58+00:00","20584817","Staff crisis prompts #NHS recruitment drive\n#Nursing #NHSCrisis @We_UoS_Nurses\n\nhttps://t.co/4OwqjLJOTP",-0.6249,0,3
+"1014013155129905152","2018-07-03 05:09:10+00:00","214464505","Staffing crisis prompts NHS recruitment drive https://t.co/08sKBQfFeH https://t.co/Oqh25IYj2L",-0.6249,0,1
+"1014007492614000643","2018-07-03 04:46:40+00:00","3609365356","Staffing crisis prompts NHS recruitment drive https://t.co/0gFG5RajVI https://t.co/yrp7czZ5wy",-0.6249,0,0
+"1013986842708828161","2018-07-03 03:24:36+00:00","910849495","Staffing crisis prompts NHS recruitment drive https://t.co/AQaR9RewpV https://t.co/3iWwBNq6aq",-0.6249,0,0
+"1013971996227637248","2018-07-03 02:25:37+00:00","32049437","Staffing crisis prompts NHS recruitment drive https://t.co/wS8ni4HiBn https://t.co/XWTh4VPQ8w",-0.6249,0,0
+"1013962635082108929","2018-07-03 01:48:25+00:00","2878411998","Staffing crisis prompts NHS recruitment drive. Bring back the bursary. That’d speed things up. Why is everything this #ToryParty does gets lost in the implementation like #BrexitShambles  https://t.co/zvWWCn3QDF https://t.co/atg2pa8jUk",-0.5994,0,0
+"1013962397550333957","2018-07-03 01:47:28+00:00","4656073313","Staffing crisis prompts NHS recruitment drive https://t.co/3pzFff2POa",-0.6249,0,0
+"1013961334243889152","2018-07-03 01:43:15+00:00","948687527703179265","#Brexit is killing the #NHS - Staffing crisis prompts NHS recruitment drive https://t.co/j2zKk0d3w1 https://t.co/pr4HxfKtup",-0.8591,4,2
+"1013959498896199680","2018-07-03 01:35:57+00:00","7587032","Staffing crisis prompts NHS recruitment drive https://t.co/iwUFAvo8vc",-0.6249,8,14
+"1014161732548349952","2018-07-03 14:59:33+00:00","865951356229693441","Last month, former government transport... https://t.co/rA5FmnaIt0",0.0,0,0
+"1014164328600227840","2018-07-03 15:09:52+00:00","953555978","#MayBot needs to show courage of Attlee to fix social care, says CQC chief #Tory #3rdWorldBRITAIN #Oust the #VERMIN #BREAKING #SaveOurNation \n\nhttps://t.co/cmpGfOMEnG",0.7506,0,0
+"1014161789200760832","2018-07-03 14:59:47+00:00","632325293","#NHSFunding #SocialCareFunding #ToryShame  May needs to show courage of Attlee to fix social care, says CQC chief\n\nhttps://t.co/4IBNVJBQmT",0.7506,1,1
+"1014044543161851909","2018-07-03 07:13:53+00:00","1006069878","May needs to show courage of Attlee to fix social care, says CQC chief\n\nhttps://t.co/Tf4LLCIwiv do we have such principled, courageous and visionary leaders today?",0.9217,0,0
+"1014036138506575872","2018-07-03 06:40:29+00:00","15533967","Courage would be an extremely difficult attribute to the very duplicitous @theresa_may\n#NHS \nMay needs to show courage of Attlee to fix social care, says CQC chief\n\nhttps://t.co/rWCDkPcSgN",0.7787,0,0
+"1014032112838733825","2018-07-03 06:24:30+00:00","303127473","May needs to show courage of Attlee to fix social care, says CQC chief\n\nhttps://t.co/HDHoAOPjEa",0.7506,0,0
+"1014008769062240256","2018-07-03 04:51:44+00:00","3346451062","Since austerity began in 2010 under the coalition government people have become afraid they will be left isolated.\n\nSupport for older people is now so threadbare that Britain’s status as a civilised society is diminished.\n\nhttps://t.co/e8MM1LznVz",0.0,6,4
+"1013999260948418560","2018-07-03 04:13:57+00:00","425640366","May needs to show courage of Attlee to fix social care, says CQC chief\n\nhttps://t.co/f7S091XCjP",0.7506,0,0
+"1013914657206231042","2018-07-02 22:37:46+00:00","20165036","A ridiculous exaggeration when we spend so much less than the rest of Europe on public services. It's hardly radical to propose that we spend as much.\n\nhttps://t.co/eJBPICUlKN",-0.3612,0,0
+"1013908840629395456","2018-07-02 22:14:39+00:00","17852355","May needs to show courage of Attlee to fix social care, says CQC chief\n\nhttps://t.co/8JUuyJCmFI",0.7506,0,0
+"1013898211164028929","2018-07-02 21:32:25+00:00","619397606","May needs to show courage of Attlee to fix social care, says CQC chief\n\nhttps://t.co/LJd3p0yReS",0.7506,0,1
+"1013887105045540869","2018-07-02 20:48:17+00:00","384872711","1.2m people who need social care don't get it. Staggering and deeply sad \n\nhttps://t.co/HmL18H1kbX",-0.0498,7,12
+"1013883858041868289","2018-07-02 20:35:23+00:00","74226156","May needs to show courage of Attlee to fix social care, says CQC chief\n\nhttps://t.co/wbP1bwSOYN",0.7506,1,1
+"1013879236871016453","2018-07-02 20:17:01+00:00","758933593","Well said David.\n\nhttps://t.co/3Rl4vPgUX7",0.2732,0,4
+"1014161814450507776","2018-07-03 14:59:53+00:00","586370561","NHS Developer Error Leads to Data Leak https://t.co/6I9ON4yXQS #cybersecurity",-0.6249,0,0
+"1014155698672996353","2018-07-03 14:35:35+00:00","896832038736670720","NHS Developer Error Leads to Data Leak https://t.co/a9DhXrGJAe\n @InfoSec_Pom #grayhat",-0.6249,2,0
+"1014137184973189120","2018-07-03 13:22:01+00:00","127385346","NHS Developer Error Leads to Data Leak https://t.co/xXbdzOqDV5 from @InfosecurityMag #cybersecurity",-0.6249,0,0
+"1014116587547181056","2018-07-03 12:00:10+00:00","2475814386","NHS Developer Error Leads to #Data Leak https://t.co/Yw7uCiScVX #InfoSecMag",-0.6249,0,0
+"1014161849267286017","2018-07-03 15:00:01+00:00","20542038","NEWS: A couple of things set to go up to help pay for an increase in NHS funding: https://t.co/9rq52HiOTk",0.5574,0,0
+"1014214696176476161","2018-07-03 18:30:01+00:00","746493566906675200","As of 7:30pm, 3rd July 2018, @BorisJohnson owes our NHS £35.996 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014207146207002626","2018-07-03 18:00:01+00:00","746493566906675200","As of 7:00pm, 3rd July 2018, @BorisJohnson owes our NHS £35.995 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014199597428719616","2018-07-03 17:30:01+00:00","746493566906675200","As of 6:30pm, 3rd July 2018, @BorisJohnson owes our NHS £35.994 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014192050281910272","2018-07-03 17:00:02+00:00","746493566906675200","As of 6:00pm, 3rd July 2018, @BorisJohnson owes our NHS £35.993 billion. https://t.co/uCLsyTPQYD",0.0,4,0
+"1014184499440017408","2018-07-03 16:30:01+00:00","746493566906675200","As of 5:30pm, 3rd July 2018, @BorisJohnson owes our NHS £35.992 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014176949999005696","2018-07-03 16:00:02+00:00","746493566906675200","As of 5:00pm, 3rd July 2018, @BorisJohnson owes our NHS £35.991 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014169399870119936","2018-07-03 15:30:01+00:00","746493566906675200","As of 4:30pm, 3rd July 2018, @BorisJohnson owes our NHS £35.99 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014161850131406849","2018-07-03 15:00:01+00:00","746493566906675200","As of 4:00pm, 3rd July 2018, @BorisJohnson owes our NHS £35.989 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014154297817174017","2018-07-03 14:30:01+00:00","746493566906675200","As of 3:30pm, 3rd July 2018, @BorisJohnson owes our NHS £35.988 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014146747617067013","2018-07-03 14:00:01+00:00","746493566906675200","As of 3:00pm, 3rd July 2018, @BorisJohnson owes our NHS £35.987 billion. https://t.co/uCLsyTPQYD",0.0,1,0
+"1014139201208455169","2018-07-03 13:30:02+00:00","746493566906675200","As of 2:30pm, 3rd July 2018, @BorisJohnson owes our NHS £35.986 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014131648651116545","2018-07-03 13:00:01+00:00","746493566906675200","As of 2:00pm, 3rd July 2018, @BorisJohnson owes our NHS £35.985 billion. https://t.co/uCLsyTPQYD",0.0,1,1
+"1014124100833325056","2018-07-03 12:30:01+00:00","746493566906675200","As of 1:30pm, 3rd July 2018, @BorisJohnson owes our NHS £35.984 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014116549987217408","2018-07-03 12:00:01+00:00","746493566906675200","As of 1:00pm, 3rd July 2018, @BorisJohnson owes our NHS £35.983 billion. https://t.co/uCLsyTPQYD",0.0,1,0
+"1014109001020145664","2018-07-03 11:30:01+00:00","746493566906675200","As of 12:30pm, 3rd July 2018, @BorisJohnson owes our NHS £35.982 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014101450404724736","2018-07-03 11:00:01+00:00","746493566906675200","As of 12:00pm, 3rd July 2018, @BorisJohnson owes our NHS £35.981 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014093900179361792","2018-07-03 10:30:01+00:00","746493566906675200","As of 11:30am, 3rd July 2018, @BorisJohnson owes our NHS £35.98 billion. https://t.co/uCLsyTPQYD",0.0,0,2
+"1014086350721638400","2018-07-03 10:00:01+00:00","746493566906675200","As of 11:00am, 3rd July 2018, @BorisJohnson owes our NHS £35.979 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014078802345914368","2018-07-03 09:30:01+00:00","746493566906675200","As of 10:30am, 3rd July 2018, @BorisJohnson owes our NHS £35.978 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014071253521424384","2018-07-03 09:00:02+00:00","746493566906675200","As of 10:00am, 3rd July 2018, @BorisJohnson owes our NHS £35.977 billion. https://t.co/uCLsyTPQYD",0.0,1,0
+"1014063702020984832","2018-07-03 08:30:01+00:00","746493566906675200","As of 9:30am, 3rd July 2018, @BorisJohnson owes our NHS £35.976 billion. https://t.co/uCLsyTPQYD",0.0,1,1
+"1014056150981984256","2018-07-03 08:00:01+00:00","746493566906675200","As of 9:00am, 3rd July 2018, @BorisJohnson owes our NHS £35.975 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014048603134816257","2018-07-03 07:30:01+00:00","746493566906675200","As of 8:30am, 3rd July 2018, @BorisJohnson owes our NHS £35.974 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014041052867465216","2018-07-03 07:00:01+00:00","746493566906675200","As of 8:00am, 3rd July 2018, @BorisJohnson owes our NHS £35.973 billion. https://t.co/uCLsyTPQYD",0.0,3,1
+"1014033504919621632","2018-07-03 06:30:02+00:00","746493566906675200","As of 7:30am, 3rd July 2018, @BorisJohnson owes our NHS £35.972 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014025955281518592","2018-07-03 06:00:02+00:00","746493566906675200","As of 7:00am, 3rd July 2018, @BorisJohnson owes our NHS £35.971 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014018402057195520","2018-07-03 05:30:01+00:00","746493566906675200","As of 6:30am, 3rd July 2018, @BorisJohnson owes our NHS £35.97 billion. https://t.co/uCLsyTPQYD",0.0,1,0
+"1014010854331727872","2018-07-03 05:00:01+00:00","746493566906675200","As of 6:00am, 3rd July 2018, @BorisJohnson owes our NHS £35.969 billion. https://t.co/uCLsyTPQYD",0.0,2,0
+"1014003303468814337","2018-07-03 04:30:01+00:00","746493566906675200","As of 5:30am, 3rd July 2018, @BorisJohnson owes our NHS £35.968 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1013995754753437696","2018-07-03 04:00:01+00:00","746493566906675200","As of 5:00am, 3rd July 2018, @BorisJohnson owes our NHS £35.967 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1013988205316620289","2018-07-03 03:30:01+00:00","746493566906675200","As of 4:30am, 3rd July 2018, @BorisJohnson owes our NHS £35.966 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1013980656546639872","2018-07-03 03:00:02+00:00","746493566906675200","As of 4:00am, 3rd July 2018, @BorisJohnson owes our NHS £35.965 billion. https://t.co/uCLsyTPQYD",0.0,0,1
+"1013973106535247872","2018-07-03 02:30:01+00:00","746493566906675200","As of 3:30am, 3rd July 2018, @BorisJohnson owes our NHS £35.964 billion. https://t.co/uCLsyTPQYD",0.0,0,1
+"1013965557274537984","2018-07-03 02:00:02+00:00","746493566906675200","As of 3:00am, 3rd July 2018, @BorisJohnson owes our NHS £35.963 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1013958007716175872","2018-07-03 01:30:02+00:00","746493566906675200","As of 2:30am, 3rd July 2018, @BorisJohnson owes our NHS £35.962 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1013950456152743936","2018-07-03 01:00:01+00:00","746493566906675200","As of 2:00am, 3rd July 2018, @BorisJohnson owes our NHS £35.961 billion. https://t.co/uCLsyTPQYD",0.0,0,0
+"1014161898395357184","2018-07-03 15:00:13+00:00","3684803596","NHS boss reveals ‘significant planning for all Brexit scenarios’\nhttps://t.co/6pfM2RVqLj",0.0,0,0
+"1013363373281562624","2018-07-01 10:07:10+00:00","388895210","NHS boss reveals ‘significant planning for all Brexit scenarios’ https://t.co/sVW41kntGY",0.0,1,2
+"1014161961800617984","2018-07-03 15:00:28+00:00","1175720893","Ryan Giggs, @Chrisgunter16,  @aaronramsey and  @Ben_Davies33 have got a message to our NHS: https://t.co/C76uWkQIk0 \n #NHSCYMRU70\n@Cymru  @BMACymru @RCNWales @givebloodwales",0.0,4,2
+"1014056309333942273","2018-07-03 08:00:39+00:00","1175720893","Our Welsh football stars have a message for NHS Wales: https://t.co/C76uWkQIk0 \n #NHSCYMRU70 @Cymru @FAWales \n@rcn @BMACymru",0.0,2,1
+"1013754225455783937","2018-07-02 12:00:16+00:00","1175720893","GIGsy's message to NHS Wales staff: https://t.co/C76uWkQIk0  #NHSCYMRU70 @Cymru @FAWales",0.0,1,0
+"1013711213857996802","2018-07-02 09:09:21+00:00","1171448941","The @Cymru boys are among those sending Happy 70th Birthday messages to our health service #NHS70 (Vid via @DHSSwales) https://t.co/NfBrBy7vKe #CapitalReports",0.5719,1,1
+"1013711128726261760","2018-07-02 09:09:01+00:00","3003180309","The @Cymru boys are among those sending Happy 70th Birthday messages to our health service #NHS70 (Vid via @DHSSwales) https://t.co/KwJGmIJmoo #CapitalReports",0.5719,2,2
+"1013701369654665216","2018-07-02 08:30:14+00:00","1175720893","Wishes from one Welsh team to another: https://t.co/C76uWkQIk0\n #TEAMNHSCYMRU #TogetherStronger #NHSCYMRU70 \n@Chrisgunter16 @aaronramsey \n\n@Ben_Davies33  @FAWales @joeled",0.1531,6,4
+"1013346592592678912","2018-07-01 09:00:29+00:00","1175720893","Wishes from one Welsh team to another #TEAMNHSCYMRU #TogetherStronger #NHSCYMRU70 https://t.co/C76uWkQIk0  @FAWales   @Maliharries\n@gravelleMatthew @matthewrhys @theAlarm\n @jamesonguitars @chrisgunter16 @aaronramsey @joe16led @markllew @clarencehouse @WelshRugbyUnion",0.1531,0,1
+"1014161991399804928","2018-07-03 15:00:35+00:00","233905045","FM Services Contract – Camden and Islington NHS Foundation Trust: FM Services Contract… https://t.co/nwx2KRZje6",0.5106,0,0
+"1014184625382490113","2018-07-03 16:30:31+00:00","790564641248346112","Great to see so many familiar faces in 17/18 Quality Account especially @stephenaghan @Vickynhs @JoFort_nuh from @NUHSurgery! Always busy #inspiring and driving #qualityimprovement You can download a copy here: https://t.co/bFOuRFGMlU #Spotted https://t.co/pZVrWKiFWh",0.6588,0,2
+"1014162004968464389","2018-07-03 15:00:38+00:00","24703791","We’ve published our 17/18 Quality Account. You can read it here: https://t.co/NCxaVSylof #welistenwecare https://t.co/AIYy7Ygtk9",0.0,0,1
+"1013856105368301570","2018-07-02 18:45:06+00:00","24703791","We further improved patient safety and the quality of care for patients in 17/18. Read how in our Quality Account, which is available here https://t.co/NCxaVSylof #welistenwecare https://t.co/2es0fUqHFQ",0.8442,1,7
+"1014162154059157508","2018-07-03 15:01:14+00:00","703189918445490178","Get your next Old Age Psych Liaison post here! https://t.co/GaGnLDtseX https://t.co/Z7fuBHKvn7",0.0,3,6
+"1013134687353671681","2018-06-30 18:58:27+00:00","703189918445490178","@MedJobsNTW @NTWNHS Come and work in my team - we have a vacancy for an inspiring old age psychiatrist interested in teaching, training &amp; service development, and this is Newcastle in the sun today-who wouldn’t want to live here?! https://t.co/GaGnLDtseX https://t.co/UiMtBuyb2b",0.7263,3,7
+"1014162239446835200","2018-07-03 15:01:34+00:00","151548540","University joins celebrations for NHS’ 70th anniversary in Carlisle https://t.co/ZvthLiUgUe https://t.co/wG5tVLFPXt",0.0,1,2
+"1014162415926304768","2018-07-03 15:02:16+00:00","3801121633","Special Report: Modicare- India’s version of the NHS https://t.co/HEuBMzy0HP https://t.co/BDsZwvLsF5",0.4019,0,0
+"1014162542246100992","2018-07-03 15:02:46+00:00","115017491","Knee-jerk ideology is making any debate on how to improve the NHS almost impossible:\nhttps://t.co/JYoF7D1PzE",0.4404,0,0
+"1014152116208918528","2018-07-03 14:21:21+00:00","115017491","@KateAndrs The torrent of ad-hominem comment just goes to prove that rational debate about the NHS is virtually impossible:\nhttps://t.co/JYoF7D1PzE",0.0,0,6
+"1014151413474131969","2018-07-03 14:18:33+00:00","115017491","""What the holy fuck are these commentators talking about?""\nhttps://t.co/JYoF7D1PzE",-0.5423,0,1
+"1014162569832161281","2018-07-03 15:02:53+00:00","24862304",".@deafgirly: ""Life without the NHS is hard to comprehend for deaf people"" - https://t.co/OlNtZZdUUl #OurNHS  #NHS70",-0.1027,9,8
+"1014162721376555009","2018-07-03 15:03:29+00:00","28559213","I LOVE the #NHS Symphony. So beautiful &amp; sumptuously layered. Everyone Listen: https://t.co/nMyDGlEBR2 @alexanderwoolf",0.8984,0,3
+"1014124099696816129","2018-07-03 12:30:01+00:00","234508341","The #NHS Symphony by @alexanderwoolf The Bach Choir are joined by members of the Barts Choir, the Lewisham &amp; Greenwich NHS Choir and the Royal Free Music Society Choir #NHS70 via @BBCRadio3 https://t.co/CSMDZzNbL3",0.5106,1,2
+"1013924628144754693","2018-07-02 23:17:23+00:00","202210544","The #NHSSymphony is featured on a small segment towards the end of tonight's episode of @BBCNewsnight https://t.co/uQ2QvProkP\nIf you want to listen to the whole version of this lovely composition in honour of #NHS70, click here: https://t.co/PYZ2cydtM4\nIt's well worth a listen!",0.9151,0,3
+"1013797602972880903","2018-07-02 14:52:38+00:00","219484329","Congratulations @alexanderwoolf and the @TheBachChoir on your contribution to this wonderful piece, the NHS symphony - I'm sure you'd be the first to agree that it's much more than a piece of music &amp; has many creators #NHS70 https://t.co/NBuMCM9VQW",0.9197,0,4
+"1013734653142986753","2018-07-02 10:42:30+00:00","255197588","In celebration of #NHS70 have you listened to the #NHS Symphony composed by @alexanderwoolf yet? #NHS captured in immersive stereo, with specially commissioned music sung by NHS staff from @NHSBartsHealth and @LG_NHS hospitals https://t.co/N9dBPb49dh @NHSEngland @BBCRadio3 👏🎶🎁",0.0,7,12
+"1013515726710362112","2018-07-01 20:12:34+00:00","72830757","Get some headphones, listen to this https://t.co/pOQzLKBJKt and watch this and remember how precious the NHS is #NHS70 @BBCRadio3 @robdelaney https://t.co/aXDe0Zw1mb",0.5719,0,2
+"1013477227604955136","2018-07-01 17:39:35+00:00","3019550854","Just caught up with @alexanderwoolf's beautiful NHS symphony for #NHS70 @BBCRadio3 listen here: https://t.co/EYbsOzuMOD",0.5994,0,3
+"1013328354353860609","2018-07-01 07:48:01+00:00","837541741","Thoroughly recommend catching up on this recording if you missed it last night #nhs70 . Beautiful composition by @Alexanderwoolf featuring NHS Voices from @choir_NHS @bartschoir @thebachchoir Between the Ears - The NHS Symphony - @BBCRadio3 https://t.co/ulryU1Zm6U",0.6697,5,10
+"1013153996222160902","2018-06-30 20:15:10+00:00","551426814","9:30pm tonight @BBCRadio3  ....\n#NHS captured in immersive stereo, with specially commissioned music sung by NHS staff and @TheBachChoir  to ear mark the #NHS70 birthday with a unique composition depicting @NHSBartsHealth and @LG_NHS  hospitals. https://t.co/taBzpnuhho https://t.co/qmh0P45vX1",0.0,6,9
+"1013146445803933698","2018-06-30 19:45:10+00:00","551426814","9:30pm tonight @BBCRadio3 ....\n#NHS captured in immersive stereo, with specially commissioned music sung by NHS staff and @TheBachChoir to ear mark the #NHS70 birthday with a unique composition depicting @NHSBartsHealth @LG_NHS hospitals. https://t.co/taBzpnuhho https://t.co/yuCQDgiHvE",0.0,6,12
+"1013097400087597056","2018-06-30 16:30:17+00:00","1415662428","An aural delight this evening at 9.30 - @BBCRadio3  Between The Ears presents the patterns and flows of life in the NHS captured in immersive stereo, with specially commissioned music sung by NHS staff and The Bach Choir. #NHS70 https://t.co/DxW923EY1f https://t.co/SmQer7loIv",0.5994,0,1
+"1013097399848460290","2018-06-30 16:30:17+00:00","1299621858","An aural delight this evening at 9.30 - @BBCRadio3  Between The Ears presents the patterns and flows of life in the NHS captured in immersive stereo, with specially commissioned music sung by NHS staff and The Bach Choir. #NHS70 https://t.co/2o0uwWZG4c https://t.co/kWhZsXlQ6A",0.5994,0,0
+"1012999183404445698","2018-06-30 10:00:00+00:00","965937049755844608","Don't miss the premiere of the #NHSSymphony, tonight 21.30 on @BBCRadio3. \n\nThe #NHSSymphony was commissioned by @BBCRadio3\nto mark #NHS70. Sounds of the health service are blended with music by @alexanderwoolf, performed by NHS staff and @TheBachChoir. \n\nhttps://t.co/W1ZTfJ8Pc8",0.1139,8,12
+"1012941226306428928","2018-06-30 06:09:42+00:00","392275013","This is being broadcast in binaural stereo, so maybe get your headphones on for best listening. Half an hour long. https://t.co/hEceMIdvtw",0.6369,0,1
+"1014209247750565889","2018-07-03 18:08:22+00:00","3430063708","Five ideas from other health systems that could transform NHS https://t.co/8cOSNtipFu via &amp; thanks @Catch22",0.4404,0,0
+"1014207317536100353","2018-07-03 18:00:42+00:00","420263962","A round the world look at other health innovations #NHS70 https://t.co/a6DsB8DSxo",0.0,0,0
+"1014205988134703104","2018-07-03 17:55:25+00:00","1360559714","Five ideas from other health systems that could transform NHS. Interesting stuff! #NHS \n\nhttps://t.co/0lkhBv1n3v\n\nShared from my Google feed",0.4574,0,0
+"1014197925524721665","2018-07-03 17:23:22+00:00","740648893759774721","Five ideas from other health systems that could transform NHS..........\n\nhttps://t.co/UXiWBCctJj",0.0,1,1
+"1014196671855636481","2018-07-03 17:18:24+00:00","80118666","Agree with all of these. Especially the data record. \n\nBenefits far outweigh the risks in my opinion - assuming careful data governance....\n https://t.co/UINOvSy8f4",0.25,0,0
+"1014196052830941184","2018-07-03 17:15:56+00:00","1288257396","Five ideas from other health systems that could transform #NHS:- https://t.co/fAh04thbVb @NHSEngland @BerksWestCCG @NewburyToday @Newburyinfo @PennyPostWB @WestBerkshire @rcgp @RBNHSFT @GWH_NHS @HHFTnhs @OUHospitals @BalBahia @GPMOT79 #NHS70 @GdnHealthcare @Haroonsiddiki",0.0,0,0
+"1014178236580933632","2018-07-03 16:05:08+00:00","146454108","Five ideas from other health systems that could transform NHS https://t.co/bNGPMLD5mT",0.0,0,0
+"1014174601025241088","2018-07-03 15:50:41+00:00","3392132464","Dr. Anne Snowdon shares lessons learned from the Canadian health system in #innovation #procurement that could help revolutionise the #NHS via @guardian https://t.co/dmpM8MSrzE",0.5994,3,3
+"1014162975928643584","2018-07-03 15:04:30+00:00","3199922249","""Five ideas from other health systems that could transform NHS""\nhttps://t.co/N4HLIWYLsF",0.0,0,0
+"1014155652057518081","2018-07-03 14:35:24+00:00","82391824","One stop cancer screenings, paediatric teams in children’s centres and a procurement process centred on outcomes. A fascinating look at health innovations having an impact around the world: https://t.co/nKu5uK5oVq",-0.4767,1,2
+"1014154741734133760","2018-07-03 14:31:47+00:00","1004655656165691392","The Guardian advocating NHS learn from Israel . As I live and breath  https://t.co/oZk4v0K5n7",0.0,0,0
+"1014151248029863936","2018-07-03 14:17:54+00:00","285118461","Very cool ideas for the NHS a few days ahead of it's 70th birthday 🎂 https://t.co/lVEIsLIscV #NHS70",0.3804,0,1
+"1014148003836387334","2018-07-03 14:05:00+00:00","763721782394294272","We all know how much the #NHS is struggling, and how a more holistic and integrated approach could work (not just integrating #massage but promoting #selfcare). Integrated healthcare in the UK seems like a dream but if New Zealand can do why can't we? https://t.co/jB8ccotXit",0.7964,1,2
+"1014136889408933888","2018-07-03 13:20:50+00:00","414239929","Five ideas from other health systems that could transform NHS . Innovation procurement in Canada cited as 1 of 5 ideas with promise per ⁦@WIN_Health⁩  https://t.co/CtbBRoZfkO",0.5994,4,4
+"1014128263055183874","2018-07-03 12:46:34+00:00","895964542479544320","Yes!! Although a lot of this stuff I would say is in embryonic stages in the NHS right now... or kind of happening... but obviously needs to spread and adopt #NHS70 \nhttps://t.co/2SqeUjwEkm",0.5399,0,0
+"1014124519747981313","2018-07-03 12:31:41+00:00","284435149","This is really interesting and exactly the sort of thinking and conversations we need to have around #NHS70. It's not enough to just celebrate. https://t.co/c6UA5w3cDO",0.7713,0,0
+"1014116770448371712","2018-07-03 12:00:54+00:00","48971936","‘Five ideas from other health systems that could transform NHS’ @guardian Interesting but tactical, no radical reimagining of the system or discussion of privatization https://t.co/iBYHJJgY4l #mhealth #digitalhealth #healthtech https://t.co/K89PwTIa44",-0.2382,1,0
+"1014116768107909120","2018-07-03 12:00:53+00:00","2929339314","Five ideas from other health systems that could transform NHS https://t.co/9IipG1n1aR",0.0,0,0
+"1014114762869891072","2018-07-03 11:52:55+00:00","110975254",".@nedwards_1 tells @guardian that other countries, including Israel, have reaped dividends from adopting a single record for each patient. This, he thinks, would improve efficiency and free up the time of clinical staff if used in the #NHS #NHS70&gt; https://t.co/vzOFGKCtgI",0.8271,4,2
+"1014105936263286784","2018-07-03 11:17:51+00:00","140750208","Five ideas from other health systems that could transform NHS https://t.co/RQyynY9Q6w",0.0,0,0
+"1014103556104839168","2018-07-03 11:08:23+00:00","1116534368","Thought-provoking article in today’s @Guardian on innovative ideas from health systems https://t.co/fWmUp7cDEg\n@Hanover_Health 's #healthworldcup guide looks at how nations around the world shape up, with star facts that set them out from the rest https://t.co/09rjqksP6K",0.4404,0,0
+"1014102969166360578","2018-07-03 11:06:03+00:00","1268467344","Five ideas from other health systems that could transform NHS https://t.co/R57XdiMBpD https://t.co/A7j0GZ9mBZ",0.0,0,0
+"1014102491980582916","2018-07-03 11:04:09+00:00","161962810","""Since it introduced an #integratedhealth and social care system in 2007, Canterbury [New Zeland] has turned around its fortunes."" There are some interesting ideas here. What changes do you think the #NHS would most benefit from? #NHS70 https://t.co/X5HHHB4DLL",0.8479,1,0
+"1014086344321232896","2018-07-03 09:59:59+00:00","76525772","This is a surprise.\n\n.@guardian article ""Five ideas from other health systems that could transform NHS"" includes a section praising Israel's use of a single database of patient records. https://t.co/E9GmEuekCu https://t.co/peRy4HucLO",0.5423,4,2
+"1014083848815063040","2018-07-03 09:50:04+00:00","830115133565329409","Five ideas from other health systems that could transform NHS https://t.co/KcJfcJRm8c https://t.co/1hPcB5ohaS",0.0,0,0
+"1014083787771166720","2018-07-03 09:49:50+00:00","736485685","Guardian: Five ideas from other health systems that could transform NHS https://t.co/woSRPZKvcl @societyguardian https://t.co/faso6JuVCc",0.0,0,1
+"1014082483401515013","2018-07-03 09:44:39+00:00","19287584","Five ideas from other health systems that could transform #NHS\n\nSome (but not all) good ideas here. https://t.co/hUxqxTr00v",-0.3412,0,1
+"1014081254323621889","2018-07-03 09:39:46+00:00","3135288266","Five ideas from other health systems that could transform NHS https://t.co/PfuRJvKXEB #GuardianHealth",0.0,0,0
+"1014081153421234176","2018-07-03 09:39:22+00:00","706630469660622848","Five ideas from other health systems that could transform NHS https://t.co/eqRm9Jhbv7",0.0,0,0
+"1014163101980098560","2018-07-03 15:05:00+00:00","216332427","More than just a place to work - find out more about joining our team  ⬇️ https://t.co/uEu1LS3I3i  #WeAreTheNHS https://t.co/eGKnvp5WqJ",0.0,0,1
+"1014084867984908289","2018-07-03 09:54:07+00:00","216332427","More than just a place to work - find out more about joining our team  ⬇️ https://t.co/uEu1LS3I3i  #WeAreTheNHS #NHS https://t.co/DGDIthnuMP",0.0,0,0
+"1014163466364604417","2018-07-03 15:06:27+00:00","246905534","NHS Digital signs three-year cyber security partnership with IBM https://t.co/BIa6pKy7i4 via @computerweekly",0.34,0,0
+"1014105760765181952","2018-07-03 11:17:09+00:00","456128005","NHS Digital signs three-year #cyber #security partnership with IBM https://t.co/lFEFv8Tzw4 via @computerweekly",0.0,0,0
+"1013895085585416192","2018-07-02 21:20:00+00:00","2916388095","NHS Digital signs three-year cyber security partnership with IBM https://t.co/p7mLa1czo6 via @computerweekly",0.34,0,2
+"1013775272657801218","2018-07-02 13:23:54+00:00","2541959941","NHS Digital signs three-year cyber security partnership with IBM https://t.co/rT4MDwuvyd via @computerweekly",0.34,0,0
+"1013765549673902081","2018-07-02 12:45:16+00:00","303953556","#NHS Digital signs three-year #cybersecurity partnership with #IBM https://t.co/BlSL3GuNec via @computerweekly",0.0,0,0
+"1012922387006939136","2018-06-30 04:54:50+00:00","602765451","UK #NHS Digital signs three-year #cyber security partnership with #IBM - a key stepbin improving cyber security and cyber resilience https://t.co/zRkBKslLjA via @computerweekly",0.765,0,1
+"1012790849275617281","2018-06-29 20:12:09+00:00","1907685601","NHS Digital signs three-year cyber security partnership with IBM https://t.co/GYm52IlVB3 via @computerweekly",0.34,0,0
+"1012712073317552128","2018-06-29 14:59:08+00:00","1656247388","NHS Digital signs three-year #cyber security partnership with #IBM https://t.co/7KQDHR5z6v via @computerweekly",0.34,0,0
+"1014163628981936128","2018-07-03 15:07:06+00:00","713973","#ICYMI you'll be able to book GP appointments via an NHS app, landing by the end of the year https://t.co/rEjzDIZ6aR https://t.co/aNxscI1NUf",0.0,0,0
+"1013734041131126786","2018-07-02 10:40:04+00:00","713973","Soon you'll be able to book GP appointments via an NHS app https://t.co/rEjzDIZ6aR https://t.co/7pivaICqdV",0.0,0,0
+"1014213029347643393","2018-07-03 18:23:24+00:00","710776230405087232","UK’s National Health Service is launching a new app in December designed to make it easier for patients in England to access health services. https://t.co/ErmPH6GFTr \n#UK #NHS #Healthcare #Medical #Mobile #Apps",0.4215,0,0
+"1014182113757810688","2018-07-03 16:20:33+00:00","84960524","""No more early morning scrambles for GP appointments -- as long as you live in England"" https://t.co/h2jPYitwht #NHS #TechNews #AppNews",-0.296,0,0
+"1014166397696466945","2018-07-03 15:18:06+00:00","2532881648","NHS to let patients book GP appointments via an app https://t.co/dSO27iRixb https://t.co/VgTKQQKtbA",0.0,0,0
+"1014166136798117889","2018-07-03 15:17:03+00:00","2534058799","NHS to let patients book GP appointments via an app https://t.co/GZoqdOkec5",0.0,0,0
+"1014163760800464896","2018-07-03 15:07:37+00:00","974132755872305152","NHS to let patients book GP appointments via an app: #ai #ml #dl #iot Cc @Mikequindazzi https://t.co/a51vKSMv7t",0.0,0,0
+"1014139263691214849","2018-07-03 13:30:16+00:00","735423858602344449","NHS to let patients book GP appointments via an app https://t.co/beyHOo4AYN https://t.co/96jjgtX4Fj",0.0,0,0
+"1014135455309156352","2018-07-03 13:15:08+00:00","109217032","NHS to let patients book GP appointments via an app https://t.co/QP1M2ZMVBz https://t.co/pnc0Kw1ql2",0.0,0,0
+"1014131414214873089","2018-07-03 12:59:05+00:00","1194695778","NHS to let patients book GP appointments via an app https://t.co/nwbR9IEMVd",0.0,0,0
+"1014130871845171200","2018-07-03 12:56:56+00:00","1163252648","NHS to let patients book GP appointments via an app https://t.co/jGJxrQvaJS",0.0,0,0
+"1014130450217033728","2018-07-03 12:55:15+00:00","1144352455","NHS to let patients book GP appointments via an app https://t.co/a9PP2TJfcE",0.0,0,0
+"1014128122013388800","2018-07-03 12:46:00+00:00","2164634096","NHS to let patients book GP appointments via an app https://t.co/8iMwwz36FU via @engadget #NHS #App",0.0,0,0
+"1014127631803998208","2018-07-03 12:44:03+00:00","305743415","NHS to let patients book GP appointments via an app https://t.co/BrtQR7nNrT https://t.co/l0nurCEa3V",0.0,0,0
+"1014124593232203776","2018-07-03 12:31:59+00:00","1161409933","NHS to let patients book GP appointments via an app https://t.co/3aGtHPdoWv",0.0,0,0
+"1014121745266208769","2018-07-03 12:20:40+00:00","736029146199924736","Patients can now book GP appointments via app in NHS https://t.co/dqwDkhK46V",0.0,0,0
+"1014120589412446208","2018-07-03 12:16:04+00:00","549326382","NHS to let patients book GP appointments via an app https://t.co/8NtD48Qvhl",0.0,0,0
+"1014120262986620928","2018-07-03 12:14:46+00:00","136396922","NHS to let patients book GP appointments via an app - https://t.co/fgaOtI6HFe",0.0,0,0
+"1014119339396562945","2018-07-03 12:11:06+00:00","29358764","NHS to let patients book GP appointments via an app https://t.co/H75Uqxb6XL",0.0,0,0
+"1014117357806026752","2018-07-03 12:03:14+00:00","790542467552600066","NHS to let patients book GP appointments via an app https://t.co/nOzZV3kmvv",0.0,0,0
+"1014117334263320576","2018-07-03 12:03:08+00:00","41403882","NHS to let patients book GP appointments via an app https://t.co/MthBrX3ZPJ https://t.co/g5JacECz86",0.0,0,0
+"1014116385251840000","2018-07-03 11:59:22+00:00","1040795155","NHS to let patients book GP appointments via an app https://t.co/xxOf8n7R9n",0.0,0,0
+"1014115078830985221","2018-07-03 11:54:10+00:00","1160551933","NHS to let patients book GP appointments via an app https://t.co/9dE03PDxp6",0.0,0,0
+"1014111908801069056","2018-07-03 11:41:35+00:00","163204700","NHS to let patients book GP appointments via an app https://t.co/7zn3sUgbPC https://t.co/kJ96mZesyi",0.0,0,0
+"1014109763750072320","2018-07-03 11:33:03+00:00","91160967","#NHS to let patients book GP appointments via an #app https://t.co/s8qLcpuRm7 @beehivetech",0.0,0,0
+"1014108926235762689","2018-07-03 11:29:43+00:00","215337932","NHS to let patients book GP appointments via an app https://t.co/TRdkWyCPf6",0.0,0,0
+"1014104673169625088","2018-07-03 11:12:49+00:00","27676222","#Engadget  NHS to let patients book GP appointments via an app https://t.co/xuuYd4S5M3",0.0,0,0
+"1014103734140448768","2018-07-03 11:09:06+00:00","3438095788","NHS to let patients book GP appointments via an app https://t.co/WdhDbdrqwP",0.0,0,0
+"1014102581218611205","2018-07-03 11:04:31+00:00","2323317534","NHS to let patients book GP appointments via an app https://t.co/1dY7kTVXsV",0.0,0,0
+"1014101345073278976","2018-07-03 10:59:36+00:00","285858819","NHS to let patients book GP appointments via an app https://t.co/lzwitJCAyZ Sponsored by: https://t.co/cV96W5WSDK",0.0,0,0
+"1014099555346997254","2018-07-03 10:52:29+00:00","265779132","PA Wire/PA Images\n\nThe NHS is one of the UK's greatest achievements, offering millions of people free healthcare that in other parts of the world costs an eye-watering sum. But it's not always... https://t.co/CJ05ucNDa1",0.5789,0,0
+"1014099448111104001","2018-07-03 10:52:04+00:00","1039339147","NHS to let patients book GP appointments via an app https://t.co/36IN4quK2K https://t.co/qF6u04wvYF",0.0,0,0
+"1014099174533496832","2018-07-03 10:50:58+00:00","15613363","NHS to let patients book GP appointments via an app https://t.co/BHLwnylDxb",0.0,0,0
+"1014098953954971648","2018-07-03 10:50:06+00:00","2792360893","NHS to let patients book GP appointments via an app https://t.co/mv1oomljnT https://t.co/A6ButH7guN",0.0,0,0
+"1014098950301847552","2018-07-03 10:50:05+00:00","541940527","NHS to let patients book GP appointments via an app https://t.co/4j9P9h9WOf https://t.co/x6fAXB9CT6",0.0,1,0
+"1014097726110355456","2018-07-03 10:45:13+00:00","820884622145896448","NHS to let patients book GP appointments via an app https://t.co/tzSs3uZno3 #metabloks",0.0,0,0
+"1014096191133569024","2018-07-03 10:39:07+00:00","917316852","NHS to let patients book GP appointments via an app https://t.co/XMfdxcQHqc",0.0,0,0
+"1014096183361277952","2018-07-03 10:39:05+00:00","821751711630913538","NHS to let patients book GP appointments via an app https://t.co/2A8drIJam6 https://t.co/53YeqTkfRn",0.0,0,0
+"1014095262539804672","2018-07-03 10:35:26+00:00","531075690","NHS to let patients book GP appointments via an app https://t.co/P09YCJFVyz",0.0,0,0
+"1014095229803220992","2018-07-03 10:35:18+00:00","954671306","NHS to let patients book GP appointments via an app The NHS is one of the UK's greatest achievements, offering millions of people free healthcare that in other parts of the world costs an eye-watering sum. But it's not always easy for its patrons to acce… https://t.co/Gltj0HsIOD",0.1633,0,0
+"1014095210547175425","2018-07-03 10:35:13+00:00","1375244054","NHS to let patients book GP appointments via an app https://t.co/wRxLmuF8Qg",0.0,0,0
+"1014095182365523969","2018-07-03 10:35:07+00:00","629084145","#NHS to let patients book GP appointments via an #app https://t.co/6a3KgGIjKZ",0.0,0,0
+"1014095113637670913","2018-07-03 10:34:50+00:00","393735322","#NHS to let patients book GP appointments via an #app: The #NHS is one of the UK's greatest achievements, offering millions of people free #healthcare that in other parts of the world costs an eye-watering sum. But it's not always easy for its patrons to… https://t.co/aWMwypL6ti",0.1633,0,0
+"1014094953289527297","2018-07-03 10:34:12+00:00","307935466","https://t.co/T3MiRoKSDF : NHS to let patients book GP appointments via an app https://t.co/plHvRIwdZ9",0.0,0,0
+"1014094672153726976","2018-07-03 10:33:05+00:00","3131507609","NHS to let patients book GP appointments via an app: The NHS is one of the UK's greatest achievements, offering millions of people free healthcare that in other parts of the world costs an eye-watering sum. But it's n.. via https://t.co/RcgisyGVad #Gaming https://t.co/PQtGcZ8jOa",0.5789,0,0
+"1014094493853855749","2018-07-03 10:32:22+00:00","854828467","NHS to let patients book GP appointments via an app https://t.co/wKseZZeLWF",0.0,0,0
+"1014094466574176256","2018-07-03 10:32:16+00:00","14509143","NHS to let patients book GP appointments via an app The NHS is one of the UK's greatest achievements, offering millions of people free healthcare that in other parts of the world costs an eye-watering sum. But it's not always easy for its patrons to acce… https://t.co/fcmdgOIvNx",0.1633,0,0
+"1014094318246727682","2018-07-03 10:31:41+00:00","15613363","NHS to let patients book GP appointments via an app https://t.co/DFaXck70WK",0.0,0,0
+"1014094245500768256","2018-07-03 10:31:23+00:00","42734127","NHS to let patients book GP appointments via an app https://t.co/8QxzWiZ9Gp",0.0,0,0
+"1014094138738962432","2018-07-03 10:30:58+00:00","587769250","Engadget mobile news: NHS to let patients book GP appointments via an app https://t.co/5gd877e0XW",0.0,0,0
+"1014164365212299265","2018-07-03 15:10:01+00:00","3101041071","Confidential information on 150,000 NHS patients has been distributed against their wishes for years due to a ""coding error"" by healthcare software supplier TPP https://t.co/jw0S32IrO6",-0.2732,0,0
+"1014163876978610179","2018-07-03 15:08:05+00:00","212716030","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/0ly6aB7Vh0 via @theregister",-0.3612,0,0
+"1014144174470230016","2018-07-03 13:49:47+00:00","2734596038","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/a0CX65eDWc via @theregister",-0.3612,0,0
+"1014136696055754752","2018-07-03 13:20:04+00:00","67428426","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/Xlh5Er1TLY [@TheRegister]",-0.3612,0,0
+"1014134934594772992","2018-07-03 13:13:04+00:00","787077331","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes: Another day, another UK public health data breach Confidential information on 150,000 NHS patients has been distributed against their wishes for years… https://t.co/dRRp3yVJ7m [@regvulture]",-0.2263,0,0
+"1014133668871147521","2018-07-03 13:08:03+00:00","636979598","[https://t.co/xp1mTmWOmy] 'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/8xggszRiGj",-0.3612,0,0
+"1014131686718754816","2018-07-03 13:00:10+00:00","17143078","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/rbC6QsGZoM",-0.3612,0,0
+"1014126639297556480","2018-07-03 12:40:07+00:00","15729315","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/Rygt9M7XZL via @TheRegister #data #privacy #infosec",-0.3612,0,0
+"1014121853995159552","2018-07-03 12:21:06+00:00","351860076","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/TK8B5iD2BI via @theregister",-0.3612,0,0
+"1014117304047726592","2018-07-03 12:03:01+00:00","134572738","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/peBBr40T7p",-0.3612,0,0
+"1014115790210072576","2018-07-03 11:57:00+00:00","91143653","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/WFHHgQtONf @growcyber",-0.3612,0,0
+"1014115075806978049","2018-07-03 11:54:10+00:00","175238853","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes (The Register): https://t.co/C4GAUx9FP8",-0.3612,0,0
+"1014110998679244802","2018-07-03 11:37:58+00:00","167842900","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/TKQcH2SH44 via @theregister",-0.3612,0,1
+"1014109032431304704","2018-07-03 11:30:09+00:00","2475814386","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/xjrbiuk5kk #TheRegister",-0.3612,0,0
+"1014108746728034304","2018-07-03 11:29:01+00:00","563890062","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/1JtbGv9vqO via @theregister",-0.3612,0,1
+"1014107760252936192","2018-07-03 11:25:05+00:00","9485202","Coders .. they call themselves ""software engineers"" ... I would trust them to nail to planks together let alone build mission critical systems\n\nhttps://t.co/yiGiPfO5M4",-0.0,0,0
+"1014107310145318913","2018-07-03 11:23:18+00:00","28963607","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/ixlrer8CeT (Register)",-0.3612,0,0
+"1014106489554759681","2018-07-03 11:20:02+00:00","130486665","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/Jdw70mN0KH (Register)",-0.3612,0,0
+"1014105083943051264","2018-07-03 11:14:27+00:00","712403714762543104","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/LQf4pH8wG2",-0.3612,0,0
+"1014102970286276608","2018-07-03 11:06:03+00:00","123989204","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/ZcwNdx0Uqx",-0.3612,0,0
+"1014102515724546048","2018-07-03 11:04:15+00:00","203116476","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/oQlTqrahGc",-0.3612,1,1
+"1014102395389927424","2018-07-03 11:03:46+00:00","19827010","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes Another day, another UK public health data breach Confidential information on 150,000 NHS patients has been distributed against their wishes... https://t.co/G1BBfGdsGv via @bdnews24 #technology",-0.3612,0,1
+"1014102225403170816","2018-07-03 11:03:06+00:00","114277504","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/ry2sqYeXn6",-0.3612,0,0
+"1014101779049517062","2018-07-03 11:01:19+00:00","369107103","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/roH0yZEPrk",-0.3612,1,0
+"1014101733147111425","2018-07-03 11:01:08+00:00","89829260","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes: Another day, another UK public... https://t.co/2uIaKG8HSo",-0.3612,0,0
+"1014101637378510848","2018-07-03 11:00:46+00:00","434858031","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/bW8w1W5oYK",-0.3612,0,0
+"1014101636514398208","2018-07-03 11:00:45+00:00","969008246026588160","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes - Another day, another UK public health data breach https://t.co/vRtkRdmRK7",-0.3612,0,0
+"1014101226106052608","2018-07-03 10:59:08+00:00","167527862","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/YoqZQ4qHtH",-0.3612,0,0
+"1014101223115579393","2018-07-03 10:59:07+00:00","926574242736627712","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes\n\nAnother day, another UK public health data breach\n\nConfidential information on 150,000 NHS patients has been distributed against their wishes for years due to a ""codin… https://t.co/FtS0XXWO5u",-0.3612,0,0
+"1014100771544104960","2018-07-03 10:57:19+00:00","496209093","Latest from el Reg: 'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/ZodDUs5NLk",-0.3612,0,0
+"1014100587720466432","2018-07-03 10:56:35+00:00","11984902","The Register | ""'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes"" https://t.co/DJ6eNOkITp",-0.3612,0,0
+"1014100543738974208","2018-07-03 10:56:25+00:00","2530505347","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes | https://t.co/T83ATmW5tL",-0.3612,0,0
+"1014099961472958465","2018-07-03 10:54:06+00:00","16309969","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/u3EAknt3Tk https://t.co/jLeo2zCVtA",-0.3612,0,1
+"1014099519015923712","2018-07-03 10:52:21+00:00","859441475742044161","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/VVWS7Mrza3 #growcyber",-0.3612,1,1
+"1014099447767355393","2018-07-03 10:52:04+00:00","10409622","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/QrmJ6vErVF",-0.3612,0,0
+"1014099321917231105","2018-07-03 10:51:34+00:00","2416602846","'Coding' cockup blamed for NHS cough-up of confidential info against patients' wishes https://t.co/7B4I59kJ9R",-0.3612,0,0
+"1014163997510299649","2018-07-03 15:08:33+00:00","1585299037","Here’s an NHS Jobs link for our HEMS Paramedic recruitment....\n\nhttps://t.co/XgamAGpByn\n\n#bestjobintheworld #careerprogression #clinicalskills #genuineteam #independant #hems #criticalcare https://t.co/lNmr3Sb5Bk",0.0,12,15
+"1014164007450759169","2018-07-03 15:08:36+00:00","250150177","News: Chatsworth to light up blue to celebrate the NHS’ 70th birthday https://t.co/KP4W9SNzWm",0.5719,0,2
+"1014192704614535170","2018-07-03 17:02:38+00:00","177280097","this and the alarming numbers of teen girls claiming to be boys. Why is no one joining the dots? https://t.co/7xRd4ep6LN",-0.4019,1,4
+"1014181006813868035","2018-07-03 16:16:09+00:00","621701843","Don’t miss this excellent piece that captures the life changing work of @NHS_ELFT Coborn Centre in Newham. \nA safe space: NHS unit on frontline of child mental health crisis https://t.co/TxQLXyNnZP",0.3767,6,11
+"1014171005823148036","2018-07-03 15:36:24+00:00","18524571","This looks like a wonderful facility but can we please start to talk about the absence of Spirit? Absence of meaning? Children lack a solid container for self-respect, self-care we need to teach them that self-love is OK &amp; not egotistical. https://t.co/W5DvOVlNnO",0.9064,0,0
+"1014167925249454081","2018-07-03 15:24:10+00:00","865223191035334658","A safe space: NHS unit on frontline of child #mentalhealth crisis https://t.co/i98rLOpim4",-0.296,0,0
+"1014167257851858944","2018-07-03 15:21:31+00:00","3012613095","A safe space: NHS unit on frontline of child mental health crisis https://t.co/1ZnffVZpyT",-0.296,0,0
+"1014164158693232640","2018-07-03 15:09:12+00:00","19654724","What is happening to our young people??? A safe space: NHS unit on frontline of child mental health crisis https://t.co/7X0Tjsv3Rs",-0.4098,3,6
+"1014158875929595905","2018-07-03 14:48:12+00:00","1358947375","“currently only a quarter of those in need actually receive NHS care. A mismatch between demand and supply lies behind the delays in getting help many children and young people face. Some are told that, while sick, they are not sick enough to qualify f…” https://t.co/IO1JRk64gF",-0.6124,0,0
+"1014153414719176704","2018-07-03 14:26:30+00:00","1358947375","A safe space: NHS unit on frontline of child mental health crisis https://t.co/etK1VH4EDC",-0.296,0,0
+"1014151036481794048","2018-07-03 14:17:03+00:00","607626005","Powerful piece by @denis_campbell in today's Guardian. “It was like arriving in Shangri-la when Ruth got a place in the psychiatric intensive care unit here back in February. She was lucky. We were desperate..."" https://t.co/WxWh457fOH",0.8834,1,1
+"1014150740250677256","2018-07-03 14:15:53+00:00","2574928834","A safe space: NHS unit on frontline of child mental health crisis https://t.co/8PdvMj6hok",-0.296,0,0
+"1014147271389339650","2018-07-03 14:02:06+00:00","3871657636","A safe space: NHS unit on frontline of child mental health crisis https://t.co/KHFogPQTEN",-0.296,1,0
+"1014145549610770433","2018-07-03 13:55:15+00:00","389103061","“A safe space: NHS unit on frontline of child mental health crisis” reminder of the the complexity of some children and young people’s mental health conditions https://t.co/4TX06weG7M",0.4404,0,0
+"1014140697757220865","2018-07-03 13:35:58+00:00","1918312800","A safe space: NHS unit on frontline of child mental health crisis https://t.co/Gjo2ZPRACe",-0.296,0,0
+"1014135693000499201","2018-07-03 13:16:05+00:00","951515820","A safe space: NHS unit on frontline of child mental health crisis https://t.co/PPjNJM2a8k",-0.296,0,0
+"1014127782333419522","2018-07-03 12:44:39+00:00","2838027437","A safe space: #NHS unit on #frontline of #child #mentalhealth #Crisis #NHS70 https://t.co/kJ18M4kesV",0.4404,0,0
+"1014125014247968768","2018-07-03 12:33:39+00:00","95193255","""The number of young people referred to CAMHS shot up 56% between 2012-13 and 2016-17. Those attending A&amp;E in England because of psychiatric problems almost doubled to 22,000 a year between 2011-12 and 2015-16."" Anybody asking why? Anybody? @Anitakntweets\n https://t.co/iZOw1hj11G",-0.4137,1,0
+"1014122345244569600","2018-07-03 12:23:03+00:00","365904677","A safe space: NHS unit on frontline of child mental health crisis: the Coborn Centre for Adolescent Mental Health in Newham, east London.\n https://t.co/lyljyN9jRS",-0.296,0,0
+"1014118965562494977","2018-07-03 12:09:37+00:00","2618294692","Excellent report by @denis_campbell: '“We first saw a GP about Ruth in September 2016 but couldn’t get her first appointment with CAMHS until three months later,” says Bill. That, though, is short compared with the 100-week waits faced by some people.' https://t.co/js7X2G6mjl",0.3291,2,2
+"1014114828057800705","2018-07-03 11:53:11+00:00","307567895","A safe space: NHS unit on frontline of child mental health crisis https://t.co/r6nrWtCGCf",-0.296,0,0
+"1014112959445000192","2018-07-03 11:45:45+00:00","2323402182","A safe space: NHS unit on frontline of child mental health crisis https://t.co/FDJzcNWQ9O",-0.296,0,0
+"1014109818938888192","2018-07-03 11:33:16+00:00","102013977","""“Serious mental ill health in children and young people is really misunderstood by society at large. Society often rejects these young people or stigmatises them as problems."" | A safe space: NHS unit on frontline of child mental health crisis https://t.co/2gvOILsrq2",-0.8718,2,1
+"1014164445688467457","2018-07-03 15:10:20+00:00","144299276","@SodknowsMikey @williamdbaker Just had this from my local hospital group. Looks like our hospital et al are up ""for sale!"" https://t.co/lRa8ISfC9v",0.4199,2,0
+"1014164211830845445","2018-07-03 15:09:25+00:00","144299276","https://t.co/lRa8ISfC9v  Well it certainly looks like my local NHS is for sale Mr @Jeremy_Hunt What do you have to say about this.",0.7184,2,1
+"1014210608890351616","2018-07-03 18:13:46+00:00","149647740","Fuel and alcohol duty freeze to be lifted to help fund NHS boost.\n\nSo much for May's fictitious #Brexit bonus...\n\nhttps://t.co/2eRI1gY5dQ",0.4404,0,1
+"1014209660419747843","2018-07-03 18:10:00+00:00","3306993833","They give with one hand and take away with the other...\nFuel and alcohol duty freeze to be lifted to help fund NHS boost https://t.co/uoKhhWmZLo https://t.co/C6c2VVq9n9",0.8316,0,0
+"1014206079390179333","2018-07-03 17:55:47+00:00","469265787","Fuel and alcohol duty freeze to be lifted to help fund NHS boost https://t.co/tMbPrtWbmM https://t.co/GeAgZXdA39",0.6808,1,2
+"1014205918949593089","2018-07-03 17:55:08+00:00","64729524","So once again the hardest hit in society will be hit again by this absolutely shite Tory government. It's much easier than taxing your rich donor friends isn't it @theresa_may you useless bint. #ToriesOut \nhttps://t.co/1cjM5uF5pe",0.7717,0,0
+"1014203860498436098","2018-07-03 17:46:57+00:00","708586176953905152","Yes ok, raise duty on alcohol, but a definite NO! to raising fuel duty. Absolutely the wrong, short sighted choice! #NHS #Number10\nFuel and alcohol duty freeze to be lifted to help fund NHS boost - Sky News https://t.co/nFlEgeLskr",0.5599,0,0
+"1014202874212036608","2018-07-03 17:43:02+00:00","22403241","So mych fir a #Brexit dividend. Fuel and alcohol duty freeze to be lifted to help fund NHS boost - Sky News https://t.co/PmIcPHnSbC",0.6808,0,0
+"1014197676244656128","2018-07-03 17:22:23+00:00","1005604647887953920","Fuel and alcohol duty freeze to be lifted to help fund NHS boost https://t.co/N3zEuVoc9g",0.6808,0,0
+"1014195198413475840","2018-07-03 17:12:32+00:00","84429599","It’s funny I thought that was gonna be the money on the side of the bus!! Fuel and alcohol duty freeze to be lifted to help fund NHS boost #fuckbrexitlies https://t.co/m9npzQE47R https://t.co/Vx3NLNU229",0.8436,0,0
+"1014191015174070274","2018-07-03 16:55:55+00:00","195420397","Fuel and alcohol duty freeze to be lifted to help fund NHS boost https://t.co/a8IFFjKval https://t.co/MDTYcy74dU",0.6808,0,0
+"1014190169543626753","2018-07-03 16:52:33+00:00","949754838732156928","The #Brexit bonus😠😡😠😡😠😡\n\nhttps://t.co/91nOWU9YKX",0.0,0,0
+"1014187449193361408","2018-07-03 16:41:45+00:00","2962332694","We're going to get SCREWED one way or another!!!\n\nFuel and alcohol duty freeze to be lifted to help fund NHS boost https://t.co/w9pBiSeVJt",0.3701,1,2
+"1014185727968579585","2018-07-03 16:34:54+00:00","285263414","Where’s the logic in letting the fuel duty rise? Duty on things that cause a burden the NHS like Sugary, Fat Filled Junk Food and Soft Drinks as well as Alcohol would be a better idea.\n#NHS #Tax #diabetes #obesity #Tories https://t.co/zNOdZcTUpY https://t.co/Bmq3A3PTbY",0.5574,0,0
+"1014183572767375360","2018-07-03 16:26:21+00:00","107189097","Fuel and alcohol duty freeze to be lifted to help fund NHS boost - Brexit 'dividend'? https://t.co/YcLQ5YFcz7 https://t.co/kJUrFIDSSi",0.6808,0,0
+"1014181488756166657","2018-07-03 16:18:04+00:00","14582160","Fuel and alcohol duty freeze to be lifted to help fund NHS boost https://t.co/Hq1InZ9Khf",0.6808,1,0
+"1014180463190183939","2018-07-03 16:13:59+00:00","2734278569","If fuel prices rise then everything you buy goes up everything that is except your wages! I’ve not had a pay rise for nearly 10yrs!\n\nWhy don’t the Tories hit the large corporations and wealthy who’ve had real term tax cuts for years?!  #TuesdayThoughts\n🤔 https://t.co/DNGa29em1x",0.3553,3,3
+"1014179815111495681","2018-07-03 16:11:25+00:00","721773507089154055","Fuel and alcohol duty freeze to be lifted to help fund NHS boost https://t.co/EH5sga9Ccc of course it is because petrol isn’t expensive enough. Don’t promise money you don’t have,just hitting the little people again who need cars.I don’t live in a city",0.7845,0,0
+"1014179384025075712","2018-07-03 16:09:42+00:00","497116719","just how thick are these @conservatives - they are trying to bankrupt the economy at all costs! What next tax the disabled, elderly? Why not tax the rich numpties.  Fuel and alcohol duty freeze to be lifted to help fund NHS boost https://t.co/HBWSVcY5Rj",-0.2996,3,1
+"1014172879712342021","2018-07-03 15:43:51+00:00","421845565","‼️👉 Fuel and alcohol duty freeze to be lifted to help fund NHS boost‼️\n   ⬇️⬇️⬇️ https://t.co/KygEHtIajo https://t.co/6xZJ3kmDWn",0.4404,0,0
+"1014170269085290496","2018-07-03 15:33:29+00:00","615931330","Fuel and alcohol duty freeze to be lifted to help fund NHS boost https://t.co/1HJtkRvq79",0.6808,0,1
+"1014169406593814529","2018-07-03 15:30:03+00:00","191332376","https://t.co/Z7j1O1DfI9\nIf in doubt make the poor pay",-0.7184,0,0
+"1014167991670452226","2018-07-03 15:24:26+00:00","949637574930378753","The ‘Brexit Dividend’ https://t.co/VapesCPQaE",0.0,1,2
+"1014167870811631616","2018-07-03 15:23:57+00:00","20307371","#Fuel and alcohol duty freeze to be lifted to help fund #NHS boost https://t.co/u9SxFc8bxL",0.6808,0,1
+"1014164332312125441","2018-07-03 15:09:53+00:00","1000971184031191041","In Vietnam:  Petrol - 57p a litre.  Beer (case bought) ~ 30p for a 330ml can.  Keep working tax drones! https://t.co/R9MH4YYu07",0.0,0,0
+"1014157408904544263","2018-07-03 14:42:23+00:00","926448270771093504","Fuel and alcohol duty freeze to be lifted to help fund NHS boost https://t.co/Kw5KALPK3A",0.6808,0,0
+"1014152470333919232","2018-07-03 14:22:45+00:00","215071070","Fuel and alcohol duty freeze to be lifted to help fund NHS boost ⁦@PhilipHammondUK⁩  will increase inflation, lower disposable income &amp; hit every pocket in the country.... we are already taxed on fuel higher than anywhere else #desperate  #thinkagain https://t.co/9X1JVmmGKY",0.6908,0,0
+"1014148931486470145","2018-07-03 14:08:41+00:00","3367926208","Fuel and alcohol duty freeze to be lifted to help fund NHS boost https://t.co/XlZe8rG5z1 #news #money",0.6808,1,1
+"1014147678819758080","2018-07-03 14:03:43+00:00","227000277","ALL FOR THE NHS...BUT YET MORE TAX TO STRETCH ALREADY STRETCHED POCKETS....! \n\nFuel and alcohol duty freeze to be lifted to help fund NHS boost https://t.co/xyASix6SWc https://t.co/YYUskgBKXm",0.7088,0,0
+"1014146678415417344","2018-07-03 13:59:44+00:00","241626007","Fuel and alcohol duty freeze to be lifted to help fund NHS boost https://t.co/dGy8GC1LeR https://t.co/sxnM1YBywi",0.6808,0,0
+"1014146316769943552","2018-07-03 13:58:18+00:00","961059044","Fuel and alcohol duty freeze to be lifted to help fund NHS boost https://t.co/qfdC1RAO1u",0.6808,0,1
+"1014141860275736576","2018-07-03 13:40:35+00:00","20613692","Fuel and alcohol duty freeze to be lifted to help fund NHS boost - How about stop the blood suckers bleeding the system dry? ⁦@theresa_may⁩  https://t.co/uNBP5IEUGa https://t.co/qiOO8zF2i5",0.0258,0,0
+"1014138631072690176","2018-07-03 13:27:46+00:00","911365117010436096","But...but...I thought this was coming from the Brexit Dividend! Have I been fooled?😱Nope...not one bloody bit👎🇪🇺🇬🇧\nhttps://t.co/PFWLI30qKm",-0.4926,2,0
+"1014164389837115392","2018-07-03 15:10:07+00:00","1908254904","Theresa May's £20bn NHS funding pledge won't make a difference, says Jeremy Corbyn https://t.co/fX1dYhm9jJ",0.0,0,0
+"1013378245117394944","2018-07-01 11:06:15+00:00","23242228",".TheresaMay's £20bn #NHS funding pledge won't make a difference, says JeremyCorbyn https://t.co/k0cQGZoAD9",0.0,0,0
+"1013376796996329472","2018-07-01 11:00:30+00:00","7587032",".@TheresaMay's £20bn #NHS funding pledge won't make a difference, says @JeremyCorbyn https://t.co/GD4yJlaDq2",0.0,10,24
+"1014164434678370304","2018-07-03 15:10:18+00:00","160881963","Member of the #NHS #Firefighters #Police #Teachers or #ArmedForces? Get a discounted All-Inclusive Membership! https://t.co/AOn7VviXhy",0.126,0,0
+"1013307480791805954","2018-07-01 06:25:04+00:00","160881963","Member of the #NHS #Firefighters #Police #Teachers or #ArmedForces? Get a discounted All-Inclusive Membership! https://t.co/AOn7VviXhy",0.126,2,0
+"1012703538638516226","2018-06-29 14:25:13+00:00","160881963","Member of the #NHS #Firefighters #Police #Teachers or #ArmedForces? Get a discounted All-Inclusive Membership! https://t.co/AOn7VvAy96",0.126,1,0
+"1012007713751158786","2018-06-27 16:20:15+00:00","160881963","Member of the #NHS #Firefighters #Police #Teachers or #ArmedForces? Get a discounted All-Inclusive Membership! https://t.co/AOn7VviXhy",0.126,1,0
+"1011313129282768897","2018-06-25 18:20:13+00:00","160881963","Member of the #NHS #Firefighters #Police #Teachers or #ArmedForces? Get a discounted All-Inclusive Membership! https://t.co/AOn7VviXhy",0.126,1,1
+"1014164633987551232","2018-07-03 15:11:05+00:00","1953001","NHS Counter Fraud launches interactive #TrackTheTruck campaign: https://t.co/clxgJcBJq5 @NHSCFA @NHScommsorg https://t.co/nu5HWY5752",-0.5859,2,3
+"1014219623548489728","2018-07-03 18:49:36+00:00","2202134430","Female Healthcare Worker Arrested for Murder of Eight Babies at NHS Hospital https://t.co/PflNZuS5F4 via @BreitbartNews",-0.8316,0,0
+"1014199683340689409","2018-07-03 17:30:22+00:00","26051165","Female NHS Healthcare Worker Arrested for Murder of Eight Babies https://t.co/Eo32JinnZN via @BreitbartNews",-0.8316,0,0
+"1014187494693392386","2018-07-03 16:41:56+00:00","880099198779215872","Female NHS Healthcare Worker Arrested for Murder of Eight Babies https://t.co/AB5cysNIpA via @BreitbartNews",-0.8316,1,0
+"1014164644083195909","2018-07-03 15:11:08+00:00","368544047","Female Healthcare Worker Arrested for Murder of Eight Babies at NHS Hospital https://t.co/UmhrtNFfat via @BreitbartNews",-0.8316,3,3
+"1014165013605437442","2018-07-03 15:12:36+00:00","404843323","New blog: NHS App delays repeat prescriptions. Is it secure? https://t.co/M7RoEgND31 on https://t.co/UtACTu3iXz https://t.co/oPgTIOnOvk",0.34,0,0
+"1012339868289064960","2018-06-28 14:20:07+00:00","404843323","New blog: Fancy a lecture at 8 in the morning? OMG! https://t.co/iNIxGtLAje on https://t.co/UtACTu3iXz https://t.co/vpAhko0Y8I",0.0,0,0
+"1014165054101467136","2018-07-03 15:12:45+00:00","1379955542","Agency Nurse – NHS https://t.co/zucUKf98gz Job Bristol",0.0,0,0

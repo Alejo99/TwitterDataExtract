@@ -15,8 +15,9 @@ class StdOutListener(tweepy.StreamListener):
         if len(self.state_handler.tweet_ids) < self.state_handler.max_tweets:
             json_data = json.loads(data)
             id_str = json_data['id_str']
-            # determine if it is a retweet
-            if not self.state_handler.utils.is_retweet(json_data):
+            lang = json_data['lang']
+            # determine if it is a retweet and if it is an english tweet
+            if not self.state_handler.utils.is_retweet(json_data) and lang == "en":
                 # determine if tweet has valid urls
                 valid_urls = self.state_handler.utils.get_valid_urls(json_data)
                 if len(valid_urls) > 0:
@@ -105,7 +106,7 @@ if __name__ == '__main__':
                 stream = tweepy.Stream(auth, listener)
 
                 # Filter stream by language and keywords
-                stream.filter(languages=["en"], track=["game of thrones", "khaleesi", "daenerys targaryen"])
+                stream.filter(languages=["en"], track=["NHS", "national health service"])
                 print("Total results: ", len(state_handler.tweet_ids))
                 print("Empty url results: ", str(state_handler.emptyUrls))
                 print("NERs: ", str(len(state_handler.ners)))
