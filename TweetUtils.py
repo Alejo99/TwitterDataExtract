@@ -5,6 +5,7 @@ from os import path
 from dateutil import parser  # requires python-dateutil v 2.7.3
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer  # requires vaderSentiment v3.2.1
 from stanfordcorenlp import StanfordCoreNLP  # requires stanfordcorenlp v3.9.1.1
+import logging
 
 
 class Twutils:
@@ -56,18 +57,6 @@ class Twutils:
         parsed_date = parser.parse(date_str)
         return parsed_date
 
-    ''''@staticmethod
-    def has_valid_urls(data):
-        valid = 0
-        urls = data["entities"]["urls"]
-        if len(urls) > 0:
-            for url in urls:
-                exp_url = url["expanded_url"]
-                orig_url = Twutils.unshorten_url(exp_url)
-                if not orig_url == "" and not orig_url.startswith("https://twitter.com"):
-                    valid += 1
-        return valid > 0'''
-
     @staticmethod
     def get_valid_urls(data):
         ret = []
@@ -83,9 +72,6 @@ class Twutils:
 
     @staticmethod
     def unshorten_url(url):
-        """ Taken from
-        https://stackoverflow.com/questions/7153096/how-can-i-un-shorten-a-url-using-python/7153185#30156125
-        """
         try:
             r = requests.head(url, allow_redirects=True, timeout=10)
             return r.url
@@ -154,4 +140,4 @@ class Twutils:
             # nlppath: <root_dir>/stanfordNLP/stanford-corenlp-full-2018-02-27
             nlppath = path.join(basepath, "stanfordNLP", "stanford-corenlp-full-2018-02-27")
             # nlp object with fixed path
-            self.nlp = StanfordCoreNLP(nlppath)
+            self.nlp = StanfordCoreNLP(nlppath, quiet=False, logging_level=logging.DEBUG)
